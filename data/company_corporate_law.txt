@@ -1,0 +1,247 @@
+SOURCE: Companies Act 2013, Limited Liability Partnership Act 2008, MSME Development Act 2006, Shops and Establishments Acts, Contract Act 1872 | CATEGORY: Company & Business Law | JURISDICTION: India
+
+STARTING A BUSINESS — WHICH STRUCTURE TO CHOOSE
+
+SOLE PROPRIETORSHIP
+Simplest form. You and the business are the same legal entity.
+- No registration mandatory (but recommended — shop license, GST, etc.)
+- Unlimited personal liability — your personal assets at risk if business fails
+- No separate tax — income taxed as personal income
+- Best for: very small businesses, freelancers, local shops
+- Register: Get Udyam Registration (MSME), Shop & Establishment license from local municipality, GST if turnover above Rs. 20 lakhs
+
+PARTNERSHIP FIRM
+2 or more persons running business together.
+- Register under Indian Partnership Act 1932 at Registrar of Firms
+- Partnership deed must specify: profit sharing ratio, roles, dispute resolution
+- Unlimited liability for all partners
+- If partner cheats: file civil suit for breach of partnership deed + criminal complaint under Section 405 IPC (criminal breach of trust)
+- Dissolve at any time by mutual consent or court order
+
+LIMITED LIABILITY PARTNERSHIP (LLP)
+Best for small professional firms — lawyers, CAs, consultants.
+- Registered at MCA portal: mca.gov.in
+- Limited liability — personal assets protected
+- Minimum 2 partners, no maximum
+- Annual filing required with MCA
+- LLP Agreement governs the business
+- Cost to register: Rs. 500-5,000 depending on capital
+
+PRIVATE LIMITED COMPANY (PVT LTD)
+Most popular for startups and growing businesses.
+- Registered under Companies Act 2013 at MCA: mca.gov.in
+- Minimum 2 directors, minimum 2 shareholders
+- Limited liability — shareholders only lose their investment
+- Can raise investment from investors
+- Must file annual returns, financial statements with MCA
+- Audit mandatory if turnover exceeds threshold
+- Cost to register: Rs. 6,000-15,000 (government fees)
+
+ONE PERSON COMPANY (OPC)
+For solo entrepreneurs who want limited liability.
+- Single person can form a company
+- Must nominate one person as nominee director
+- Limited liability protection
+- Annual compliance required
+
+PUBLIC LIMITED COMPANY
+For larger businesses wanting to raise public money.
+- Minimum 7 shareholders, 3 directors
+- Can list on stock exchange (BSE/NSE) after IPO
+- Heavy compliance requirements under SEBI and Companies Act
+- Regulated by SEBI if listed
+
+HOW TO REGISTER A COMPANY — STEP BY STEP
+Step 1: Get Digital Signature Certificate (DSC) for directors — from authorized agencies, costs Rs. 1,000-2,000
+Step 2: Apply for Director Identification Number (DIN) — free on MCA portal
+Step 3: Reserve company name — apply on MCA portal (RUN form), costs Rs. 1,000
+Step 4: Draft Memorandum of Association (MOA) and Articles of Association (AOA)
+Step 5: File SPICe+ form on MCA portal with all documents
+Step 6: Pay stamp duty and registration fee
+Step 7: Certificate of Incorporation issued — your company is born
+Step 8: Apply for PAN, TAN, GST registration, bank account
+
+All done at: mca.gov.in
+Helpline: 1800-200-5522 (MCA)
+
+MSME REGISTRATION (UDYAM REGISTRATION)
+
+WHO IS AN MSME
+- Micro: Investment up to Rs. 1 crore AND turnover up to Rs. 5 crore
+- Small: Investment up to Rs. 10 crore AND turnover up to Rs. 50 crore
+- Medium: Investment up to Rs. 50 crore AND turnover up to Rs. 250 crore
+
+BENEFITS OF UDYAM REGISTRATION (FREE)
+- Priority bank loans at lower interest rates
+- Government tenders reserved for MSMEs
+- Protection against delayed payments (MSME Samadhaan)
+- Subsidies and schemes from central/state government
+- 1% interest subvention on loans up to Rs. 1 crore
+- Free ISO certification assistance
+Register at: udyamregistration.gov.in — just need Aadhaar and PAN
+
+MSME PAYMENT PROTECTION — VERY IMPORTANT
+If a large company owes you money and is delaying payment:
+- Under MSMED Act 2006: payment must be made within 45 days if agreed, or 15 days if no agreement
+- If not paid: buyer must pay compound interest at 3x bank rate
+- File complaint at MSME Samadhaan portal: samadhaan.dcmsme.gov.in
+- Facilitation Council will mediate and can award payment with interest
+- This is one of the strongest protections for small businesses
+
+COMPANY LAW — RIGHTS OF SHAREHOLDERS
+
+MINORITY SHAREHOLDER RIGHTS
+Even if you hold small percentage of shares you have rights:
+- Right to attend and vote at general meetings
+- Right to inspect company books and registers
+- Right to receive dividends if declared
+- Right to receive annual report
+- Protection against oppression and mismanagement — Section 241-244 Companies Act
+
+OPPRESSION AND MISMANAGEMENT
+If majority shareholders are:
+- Running company for their own benefit at expense of minority
+- Committing fraud or misappropriating company funds
+- Acting in manner prejudicial to public interest
+File petition before National Company Law Tribunal (NCLT) under Section 241 Companies Act. Minority shareholders holding 10%+ shares can file directly.
+
+NATIONAL COMPANY LAW TRIBUNAL (NCLT)
+NCLT handles:
+- Oppression and mismanagement cases
+- Insolvency and bankruptcy cases
+- Company mergers and demergers
+- Winding up of companies
+- Appeals against company law violations
+File at NCLT bench for your region. No lawyer mandatory but recommended.
+
+INSOLVENCY AND BANKRUPTCY CODE (IBC) 2016
+
+IF A COMPANY OWES YOU MONEY (OPERATIONAL CREDITOR)
+If a company has not paid you for goods supplied or services rendered:
+Step 1: Send demand notice under Section 8 IBC — company has 10 days to pay or dispute
+Step 2: If no payment: file application before NCLT under Section 9
+Step 3: NCLT admits application if debt above Rs. 1 crore (earlier Rs. 1 lakh)
+Step 4: Corporate Insolvency Resolution Process (CIRP) begins
+Step 5: Resolution Professional takes over management of company
+Step 6: Company either restructures and pays creditors, or goes into liquidation
+Minimum claim: Rs. 1 crore for companies
+
+IF YOU OWE MONEY AND CANNOT PAY (PERSONAL INSOLVENCY)
+Individuals and personal guarantors: file under Part III IBC before Debt Recovery Tribunal (DRT). Fresh Start Process for individuals with income below Rs. 60,000 and assets below Rs. 20,000. Repayment Plan process for others.
+
+DIRECTOR'S LIABILITIES AND DISQUALIFICATION
+
+WHEN DIRECTORS ARE PERSONALLY LIABLE
+Directors can be held personally liable for:
+- Fraudulent trading — continuing business knowing company cannot pay debts
+- Wrongful trading — taking on new debts when insolvent
+- Non-filing of returns for 3 consecutive years — automatic disqualification
+- Not maintaining proper books of accounts
+- Environmental violations by the company
+
+DIRECTOR DISQUALIFICATION
+A disqualified director cannot be director of any company for 5 years:
+- Convicted of offence related to promotion, formation, management of company
+- Found guilty of fraud or breach of duty
+- Company does not file financial statements or annual returns for 3 consecutive years
+Check director disqualification: mca.gov.in
+
+ANNUAL COMPLIANCE FOR COMPANIES
+
+MANDATORY FILINGS (PRIVATE LIMITED COMPANY)
+Every year without fail:
+- Form AOC-4: Annual financial statements — within 30 days of AGM
+- Form MGT-7: Annual return — within 60 days of AGM
+- ADT-1: Appointment of auditor (once every 5 years)
+- DIR-3 KYC: Director KYC — every year by September 30
+- Income Tax Return: by October 31 for companies
+
+PENALTY FOR NON-COMPLIANCE
+- Late filing: Rs. 100 per day per form (no maximum cap — can become lakhs)
+- Strike off: if company does not file for 2+ years, MCA can strike off the company
+- Director disqualification: if company does not comply for 3 years
+
+LABOUR LAWS FOR BUSINESSES
+
+SMALL BUSINESSES — KEY COMPLIANCE
+Shops and Establishments Act (state-specific):
+- Register your shop/office within 30 days of starting
+- Register at local municipality or labor department
+- Get Shops and Establishments Certificate
+- Governs: working hours, holidays, leave, overtime
+
+If you employ workers, mandatory compliance:
+- PF registration if 20+ employees: epfindia.gov.in
+- ESI registration if 10+ employees: esic.gov.in
+- Professional Tax registration (state-specific)
+- Payment of Gratuity Act if 10+ employees
+- Minimum wages as notified by state
+
+CONTRACT LAW — BASICS (INDIAN CONTRACT ACT 1872)
+
+VALID CONTRACT REQUIREMENTS
+For a contract to be legally enforceable:
+1. Offer and acceptance
+2. Consideration (something of value exchanged)
+3. Capacity of parties (both must be adults, sound mind)
+4. Free consent (no coercion, fraud, or misrepresentation)
+5. Lawful object
+6. Not expressly declared void
+
+IF SOMEONE BREACHES CONTRACT
+- Send legal notice demanding performance or compensation
+- Mediation/arbitration if contract has such clause
+- File civil suit for specific performance or damages in civil court
+- For smaller amounts: Consumer Forum if service-related, or Small Causes Court
+
+ARBITRATION CLAUSE IN CONTRACTS
+Many business contracts have arbitration clause — disputes must go to arbitrator, not court. Arbitration is faster and cheaper than court. Governed by Arbitration and Conciliation Act 1996. If you lose: appeal in High Court only on limited grounds.
+
+GST FOR BUSINESSES
+
+GST REGISTRATION — WHEN MANDATORY
+- Turnover above Rs. 20 lakhs (Rs. 10 lakhs for special category states)
+- Interstate supply regardless of turnover
+- E-commerce sellers regardless of turnover
+- Certain other specified categories
+Register at: gst.gov.in (free)
+
+GST COMPLIANCE
+- File GSTR-1 (sales): monthly or quarterly
+- File GSTR-3B (summary): monthly
+- Annual return: GSTR-9 by December 31
+Penalty for non-filing: Rs. 50/day (Rs. 20/day for nil returns), up to Rs. 5,000
+
+GST FRAUD AND ITC MISUSE
+Input Tax Credit (ITC) fraud is a serious offence:
+- Claiming ITC on fake invoices: penalty equal to tax amount + imprisonment up to 5 years
+- Report GST fraud: gst.gov.in or call 1800-103-4786
+
+INTELLECTUAL PROPERTY FOR BUSINESSES
+
+TRADEMARK REGISTRATION
+Protect your brand name, logo:
+- Register at Intellectual Property India: ipindia.gov.in
+- Cost: Rs. 4,500 per class (small enterprise), Rs. 9,000 (others)
+- Protection for 10 years, renewable
+- Unregistered trademark still has common law protection
+- If someone copies your trademark: send legal notice + file complaint at IP India + civil suit
+
+COPYRIGHT
+Automatic protection from creation — no registration needed. Registration recommended as evidence. Register at: copyright.gov.in. Infringement: civil damages + criminal punishment up to 3 years.
+
+PATENT
+For new inventions:
+- File at IP India: ipindia.gov.in
+- Protection for 20 years
+- Must be novel, inventive, industrially applicable
+- Cost: Rs. 1,600 (natural person/startup), Rs. 4,000 (small entity)
+
+STARTUP INDIA BENEFITS
+Register as startup at startupindia.gov.in:
+- Tax holiday: 3 years income tax exemption in first 10 years
+- Fast-track patent examination
+- Self-certification for 9 labour laws for 5 years
+- Rs. 10,000 crore fund of funds for investment
+- Easy winding up within 90 days under IBC
+Eligibility: company up to 10 years old, annual turnover below Rs. 100 crore, working on innovation

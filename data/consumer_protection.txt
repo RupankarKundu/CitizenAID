@@ -1,0 +1,86 @@
+SOURCE: Consumer Protection Act, 2019 | CATEGORY: Consumer Rights | JURISDICTION: India (Central)
+
+OVERVIEW
+The Consumer Protection Act 2019 replaced the 1986 Act and provides stronger protection to consumers. It establishes Consumer Disputes Redressal Commissions at District, State, and National levels, and introduces the concept of e-commerce liability.
+
+SECTION 2 - KEY DEFINITIONS
+- "Consumer" means any person who buys any goods for a consideration; or hires or avails of any service for a consideration. Does NOT include a person who obtains such goods for resale or any commercial purpose.
+- "Defect" means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law, or under the contract.
+- "Deficiency" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained in relation to any service.
+- "Unfair Trade Practice" means a trade practice which adopts any unfair method or unfair or deceptive practice for the purpose of promoting the sale, use or supply of any goods or services.
+- "Unfair Contract" means a contract between a manufacturer or trader or service provider and a consumer that causes significant change in the rights of the consumer.
+- "E-commerce" means buying or selling of goods or services including digital products over digital or electronic network.
+
+SECTION 7-17 - CONSUMER RIGHTS
+1. Right to be protected against hazardous goods and services.
+2. Right to be informed about quality, quantity, potency, purity, standard and price of goods and services.
+3. Right to access to a variety of goods and services at competitive prices.
+4. Right to be heard and assured that consumers' interests will receive due consideration.
+5. Right to seek redressal against unfair trade practices or restrictive trade practices.
+6. Right to consumer education.
+
+SECTION 35 - COMPLAINT TO DISTRICT COMMISSION
+A complaint can be filed before District Commission for goods/services valued up to Rs. 50 lakhs. Complaints can be filed electronically. No fees for complaints up to Rs. 5 lakhs. Complainant can appear in person or through authorized agent.
+
+SECTION 47 - JURISDICTION OF STATE COMMISSION
+State Commission handles complaints where value of goods and services exceeds Rs. 50 lakhs but does not exceed Rs. 2 crores. Also has appellate jurisdiction over District Commission orders.
+
+SECTION 58 - JURISDICTION OF NATIONAL COMMISSION
+National Commission handles complaints exceeding Rs. 2 crores. Also hears appeals from State Commissions. Located in New Delhi.
+
+SECTION 36-40 - PROCEDURE FOR COMPLAINT
+Complaint must contain: name, description, address of complainant; name, description, address of opposite party; facts relating to complaint and when and where it arose; documents supporting facts; relief claimed. Complaint must be filed within 2 years from cause of action.
+
+ADMISSIBLE COMPLAINTS:
+- Goods/services with defects or deficiencies
+- Unfair trade practices or restrictive trade practices
+- Excessive charging beyond fixed price
+- Hazardous goods/services being sold
+- Misleading advertisements
+- E-commerce fraud
+- Insurance claim rejection without valid reason
+- Hospital/medical negligence
+- Builder not delivering flat/delaying possession
+- Bank mis-selling financial products
+- Defective electronics/appliances
+- Telecom service issues (network, billing)
+
+RELIEF AVAILABLE:
+- Removal of defects in goods
+- Replacement of defective goods
+- Return of price paid
+- Compensation for loss or injury suffered
+- Removal of deficiency in service
+- Discontinuance of unfair/restrictive trade practice
+- Withdrawal of hazardous goods
+- Adequate cost to parties
+
+HOW TO FILE A CONSUMER COMPLAINT - STEP BY STEP:
+Step 1: Send a legal notice to the seller/service provider giving them 15-30 days to resolve the issue. Keep a copy.
+Step 2: If no resolution, gather all documents: bill/invoice, warranty card, correspondence, photos of defective product, email/chat records.
+Step 3: Determine which forum has jurisdiction based on claim amount (District <50L, State 50L-2Cr, National >2Cr).
+Step 4: Write complaint including: your details, seller/service provider details, facts of the case (chronologically), evidence list, relief sought.
+Step 5: File complaint online at https://edaakhil.nic.in OR visit the District Consumer Commission.
+Step 6: Pay applicable filing fees.
+Step 7: Attend hearing dates. You can represent yourself without a lawyer.
+Step 8: Commission will issue orders for refund, replacement, or compensation.
+
+NATIONAL CONSUMER HELPLINE: 1800-11-4000 (toll-free)
+ONLINE COMPLAINT: https://consumerhelpline.gov.in
+EDAAKHIL PORTAL: https://edaakhil.nic.in
+
+COMMON SUCCESSFUL CONSUMER CASES:
+- Telecom companies ordered to refund for poor service
+- Builders ordered to pay compensation for delayed possession + interest
+- Insurance companies ordered to pay claims wrongfully rejected
+- E-commerce platforms held liable for counterfeit products
+- Airlines ordered to compensate for flight cancellation/delay
+- Hospitals held liable for medical negligence
+- Banks penalized for unauthorized charges
+- Car manufacturers ordered to replace defective vehicles
+
+PRODUCT LIABILITY (NEW IN 2019 ACT):
+Under Chapter VI, a product manufacturer/seller/service provider is now liable for harm caused by defective product without the consumer needing to prove negligence. This makes it easier to claim compensation for injuries from defective products.
+
+E-COMMERCE RULES 2020:
+E-commerce entities must: display seller details, provide grievance officer contact, not engage in fake reviews, not manipulate search results unfairly, provide return/refund timelines, process refunds within specified time. Complaints against e-commerce can be filed on consumerhelpline.gov.in.

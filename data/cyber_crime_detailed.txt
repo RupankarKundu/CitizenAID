@@ -1,0 +1,120 @@
+SOURCE: Information Technology Act 2000 (amended 2008), Bharatiya Nyaya Sanhita 2023, Cybercrime Prevention Guidelines | CATEGORY: Cyber Crime | JURISDICTION: India
+
+CYBER FINANCIAL FRAUD — ACT IMMEDIATELY
+If you have lost money in online fraud, every minute matters:
+STEP 1: Call 1930 (Cyber Financial Crime Helpline) IMMEDIATELY
+STEP 2: Report at cybercrime.gov.in
+STEP 3: Visit nearest police station with Cyber Crime cell
+The faster you report, the higher the chance of freezing the fraudster's account and recovering money.
+
+TYPES OF ONLINE FRAUD AND HOW TO HANDLE EACH
+
+OTP FRAUD / SIM SWAP
+Fraudster calls pretending to be bank/telecom, tricks you into sharing OTP:
+- Never share OTP with anyone — banks never ask for OTP
+- Immediately call your bank's helpline and block the account
+- File complaint at 1930 and cybercrime.gov.in
+- File FIR at police — Section 66C IT Act (identity theft) + Section 318 BNS (cheating)
+
+UPI FRAUD / PAYMENT APP SCAMS
+Fraudster sends collect request or tricks you into paying:
+- File complaint on NPCI portal and your payment app
+- Call 1930 immediately
+- File cybercrime complaint online
+
+FAKE JOB OFFERS / WORK FROM HOME SCAMS
+Promised high-paying jobs, asked to pay registration/training fee:
+- File FIR at cyber cell — Section 318 BNS (cheating) + IT Act
+- Report to Ministry of Labour job fraud portal
+- Report to National Consumer Helpline 1800-11-4000
+
+LOAN APP HARASSMENT / ILLEGAL LENDING APPS
+Illegal lending apps charge extreme interest, harass and threaten contacts:
+- Do NOT pay more than the principal borrowed
+- File complaint at RBI sachet.rbi.org.in
+- File cybercrime complaint at cybercrime.gov.in
+- File FIR at police for criminal intimidation — Section 351 BNS
+- RBI has banned many such apps — report to RBI immediately
+
+ONLINE SHOPPING FRAUD (FAKE WEBSITES/SELLERS)
+Paid for product but not delivered, fake product received:
+- File complaint at consumer helpline: consumerhelpline.gov.in
+- File cybercrime complaint if significant amount
+- Dispute the transaction with your bank (chargeback)
+- File FIR — Section 318 BNS (cheating) + IT Act Section 66D
+
+SEXTORTION / BLACKMAIL WITH INTIMATE IMAGES
+Someone is blackmailing you with private photos or videos:
+- Do NOT pay — paying encourages more demands
+- Immediately file cybercrime complaint at cybercrime.gov.in
+- File FIR at Women's cell or cyber cell
+- Offences: Section 67A IT Act (publishing obscene material) — 7 years imprisonment, Section 354C IPC/BNS (voyeurism), Section 508 IPC (blackmail)
+- Report content to the platform (Instagram, WhatsApp, etc.) for removal
+- National Cyber Crime Reporting Portal has specific section for this
+
+SOCIAL MEDIA ACCOUNT HACKING
+Someone has hacked your Facebook/Instagram/WhatsApp account:
+- Immediately try account recovery through official platform process
+- Report to platform: Facebook, Instagram, Google — all have hacked account recovery
+- File cybercrime complaint — Section 66 IT Act (unauthorized access) — 3 years + fine
+- If account used to cheat others: file FIR immediately
+
+FAKE PROFILES AND IDENTITY THEFT
+Someone created fake profile in your name:
+- Report profile to the platform immediately
+- File cybercrime complaint — Section 66C IT Act (identity theft) — 3 years + Rs. 1 lakh fine
+- File FIR at cyber cell
+
+CYBER BULLYING AND ONLINE HARASSMENT
+Repeatedly receiving offensive messages, trolling, threats:
+- Block and report the user on the platform
+- Take screenshots as evidence
+- File cybercrime complaint
+- If threats to life: file FIR immediately under Section 351/352 BNS (criminal intimidation)
+- Women can specifically use SHe-Box portal: shebox.nic.in
+
+PHISHING EMAILS / FAKE BANK WEBSITES
+Received email asking to update bank details or click suspicious link:
+- Never click suspicious links
+- Forward phishing email to your bank's fraud email
+- Report to cybercrime.gov.in
+- If you clicked and shared info: immediately call bank helpline to block account
+
+INVESTMENT FRAUD / PONZI SCHEMES / CRYPTO SCAMS
+Promised guaranteed high returns, money taken and disappeared:
+- File FIR at economic offences wing of police
+- Report to SEBI at scores.sebi.gov.in if securities involved
+- Report to RBI if fake bank/NBFC
+- File cybercrime complaint
+- These are typically Section 318 BNS (cheating) + Section 420 IPC cases
+
+HOW TO FILE CYBERCRIME COMPLAINT ONLINE
+Step 1: Go to cybercrime.gov.in
+Step 2: Click "Report Cyber Crime"
+Step 3: Select category of crime
+Step 4: Fill in details — provide screenshots, transaction IDs, phone numbers, URLs
+Step 5: You will receive acknowledgement number
+Step 6: Police will contact you for further investigation
+
+EVIDENCE TO PRESERVE
+Always preserve before reporting:
+- Screenshots of all conversations, transactions, profiles
+- Transaction IDs, UTR numbers, account numbers
+- Phone numbers, email addresses of fraudster
+- URLs of fake websites
+- Recording of fraudulent calls if possible
+
+INTERMEDIARY LIABILITY
+Under IT Act, platforms (Facebook, WhatsApp, Google) must:
+- Remove illegal content within 36 hours of receiving complaint
+- Remove content related to sexual crimes within 24 hours
+- Maintain records of users
+- Cooperate with government investigations
+- File complaint with Ministry of Electronics if platform does not act
+
+DATA PRIVACY RIGHTS
+- No organization should share your personal data without consent
+- Banks, hospitals, companies cannot sell your data
+- Aadhaar data misuse: file complaint with UIDAI
+- Credit score misuse: file complaint with CIBIL/Equifax and RBI
+- Digital Personal Data Protection Act 2023 provides rights to Indian citizens

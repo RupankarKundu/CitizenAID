@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CitizenAid — Legal Rights Assistant</title>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+/* ═══════════════════════════════════════════════════════════════
+   THEME TOKENS
+═══════════════════════════════════════════════════════════════ */
+:root {
+  --saffron:       #E8650A;
+  --saffron-dark:  #C4520A;
+  --saffron-light: #FFF0E4;
+  --saffron-mid:   #F5A96B;
+  --green:         #0B7A45;
+  --green-dark:    #095E35;
+  --green-light:   #E6F5EE;
+  --navy:          #0E1F38;
+  --navy-mid:      #1A3456;
+  --indigo:        #3B4FCF;
+  --indigo-light:  #EEF0FB;
+  --font-display: 'Crimson Pro', Georgia, serif;
+  --font-body:    'Outfit', sans-serif;
+  --font-mono:    'DM Mono', monospace;
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-xl: 24px;
+}
+
+/* ── LIGHT MODE ── */
+[data-theme="light"] {
+  --bg-page:     #F5F0E8;
+  --bg-hero:     #0E1F38;
+  --bg-card:     #FFFDF8;
+  --bg-surface:  #F0EBE0;
+  --bg-input:    #FAF7F2;
+  --bg-code:     #F3EDE3;
+  --border:      rgba(120, 90, 50, 0.13);
+  --border-md:   rgba(120, 90, 50, 0.22);
+  --text-primary:   #1A1208;
+  --text-secondary: #5C4A30;
+  --text-muted:     #9C8060;
+  --text-hero:      #FFFFFF;
+  --shadow-sm:   0 1px 6px rgba(120,90,50,0.08);
+  --shadow-md:   0 4px 20px rgba(120,90,50,0.12);
+  --shadow-lg:   0 8px 40px rgba(120,90,50,0.16);
+  --topbar-bg:   #0E1F38;
+  --pill-bg:     rgba(255,255,255,0.08);
+  --pill-border: rgba(255,255,255,0.15);
+  --pill-text:   rgba(255,255,255,0.65);
+}
+
+/* ── DARK MODE ── */
+[data-theme="dark"] {
+  --bg-page:     #0D1117;
+  --bg-hero:     #080E1A;
+  --bg-card:     #161C27;
+  --bg-surface:  #0D1117;
+  --bg-input:    #1C2333;
+  --bg-code:     #131924;
+  --border:      rgba(255,255,255,0.08);
+  --border-md:   rgba(255,255,255,0.14);
+  --text-primary:   #EAE8E4;
+  --text-secondary: #9BA8BF;
+  --text-muted:     #5A6680;
+  --text-hero:      #FFFFFF;
+  --shadow-sm:   0 1px 6px rgba(0,0,0,0.3);
+  --shadow-md:   0 4px 20px rgba(0,0,0,0.4);
+  --shadow-lg:   0 8px 40px rgba(0,0,0,0.5);
+  --topbar-bg:   #080E1A;
+  --pill-bg:     rgba(255,255,255,0.06);
+  --pill-border: rgba(255,255,255,0.10);
+  --pill-text:   rgba(255,255,255,0.50);
+  --saffron-light: rgba(232,101,10,0.15);
+  --green-light:   rgba(11,122,69,0.15);
+  --indigo-light:  rgba(59,79,207,0.15);
+}
+
+/* ── RESET ── */
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg-page);
+  color: var(--text-primary);
+  min-height: 100vh;
+  font-size: 15px;
+  line-height: 1.65;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* ── TOP BAR ── */
+.topbar {
+  background: var(--topbar-bg);
+  padding: 0 2rem;
+  height: 62px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  text-decoration: none;
+}
+.logo-emblem {
+  width: 34px; height: 34px;
+  background: linear-gradient(135deg, var(--saffron) 0%, #FF8C42 100%);
+  border-radius: 9px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  color: #fff;
+  box-shadow: 0 2px 10px rgba(232,101,10,0.4);
+}
+.logo-name {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+  letter-spacing: 0.01em;
+}
+.logo-name span { color: var(--saffron-mid); }
+.topbar-right { display: flex; align-items: center; gap: 10px; }
+.tech-badge {
+  font-size: 10.5px;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 3px 9px;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.12);
+  color: rgba(255,255,255,0.45);
+}
+
+/* ── HERO ── */
+.hero {
+  background: var(--bg-hero);
+  padding: 1.8rem 2rem 2.5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute; inset: 0;
+  background:
+    radial-gradient(ellipse 60% 80% at 20% 50%, rgba(232,101,10,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 60% 80% at 80% 50%, rgba(59,79,207,0.08) 0%, transparent 60%),
+    radial-gradient(ellipse 50% 60% at 50% 110%, rgba(11,122,69,0.10) 0%, transparent 55%);
+  pointer-events: none;
+}
+.hero::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(232,101,10,0.4), rgba(59,79,207,0.3), transparent);
+}
+.hero-eyebrow {
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--saffron-mid);
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.hero-eyebrow::before,
+.hero-eyebrow::after {
+  content: '';
+  width: 32px; height: 1px;
+  background: rgba(245,169,107,0.4);
+}
+.hero h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2.1rem, 5.5vw, 3.4rem);
+  font-weight: 300;
+  color: var(--text-hero);
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  margin-bottom: 0.6rem;
+}
+.aid-highlight { color: var(--saffron-mid); }
+.hero h1 em {
+  font-style: italic;
+  background: linear-gradient(135deg, var(--saffron-mid) 0%, #FFD4A8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.hero-sub {
+  font-size: 15px;
+  color: rgba(255,255,255,0.50);
+  max-width: 500px;
+  margin: 0 auto 1.5rem;
+  font-weight: 300;
+  line-height: 1.7;
+}
+
+/* ── STATS ── */
+.stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 2.5rem;
+  margin-bottom: 2.5rem;
+  flex-wrap: wrap;
+}
+.stat-item { text-align: center; }
+.stat-num {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1;
+}
+.stat-num span { color: var(--saffron-mid); }
+.stat-label {
+  font-size: 11px;
+  color: rgba(255,255,255,0.35);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 3px;
+}
+
+/* ── CATEGORY PILLS ── */
+.cat-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+.cat-pill {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 16px;
+  border-radius: 24px;
+  border: 1px solid var(--pill-border);
+  background: var(--pill-bg);
+  color: var(--pill-text);
+  font-size: 13px;
+  font-family: var(--font-body);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.cat-pill:hover { background: rgba(232,101,10,0.15); border-color: rgba(232,101,10,0.45); color: #fff; }
+.cat-pill.active { background: var(--saffron); border-color: var(--saffron); color: #fff; box-shadow: 0 2px 12px rgba(232,101,10,0.35); }
+
+/* ── LANGUAGE SELECTOR ── */
+.lang-selector-wrap { margin-bottom: 1.5rem; }
+.lang-label {
+  font-size: 11px;
+  color: rgba(255,255,255,0.40);
+  margin-bottom: 10px;
+  letter-spacing: 0.04em;
+}
+.lang-btn-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.lang-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 10px 24px;
+  border-radius: 12px;
+  border: 1.5px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.06);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 100px;
+  font-family: var(--font-body);
+}
+.lang-btn:hover { background: rgba(255,255,255,0.12); border-color: rgba(255,255,255,0.3); transform: translateY(-2px); }
+.lang-btn.active { background: var(--saffron); border-color: var(--saffron); box-shadow: 0 3px 14px rgba(232,101,10,0.45); transform: translateY(-2px); }
+.lang-flag { font-size: 18px; }
+.lang-name { font-size: 16px; font-weight: 600; color: #fff; line-height: 1.1; }
+.lang-sub { font-size: 10px; color: rgba(255,255,255,0.55); font-weight: 400; }
+
+/* ── SEARCH BOX ── */
+.search-wrap { max-width: 700px; margin: 0 auto; }
+.search-box {
+  background: rgba(255,255,255,0.07);
+  border: 1.5px solid rgba(255,255,255,0.12);
+  border-radius: var(--r-lg);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  backdrop-filter: blur(4px);
+}
+.search-box:focus-within { border-color: var(--saffron); box-shadow: 0 0 0 3px rgba(232,101,10,0.15); }
+#question {
+  flex: 1;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 15px 18px;
+  font-size: 15px;
+  color: #fff;
+  font-family: var(--font-body);
+  resize: none;
+  min-height: 54px;
+  max-height: 140px;
+  line-height: 1.5;
+}
+#question::placeholder { color: rgba(255,255,255,0.28); }
+.search-footer { display: flex; align-items: center; gap: 8px; padding: 10px 12px; }
+.ask-btn {
+  background: linear-gradient(135deg, var(--saffron) 0%, #FF7A2A 100%);
+  border: none;
+  border-radius: 9px;
+  color: #fff;
+  padding: 9px 22px;
+  font-size: 13.5px;
+  font-weight: 600;
+  font-family: var(--font-body);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  transition: all 0.2s;
+  white-space: nowrap;
+  box-shadow: 0 2px 10px rgba(232,101,10,0.3);
+}
+.ask-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 18px rgba(232,101,10,0.45); }
+.ask-btn:active { transform: translateY(0); }
+.ask-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; box-shadow: none; }
+
+/* ── MAIN ── */
+.main { max-width: 920px; margin: 0 auto; padding: 2.5rem 1.5rem 6rem; }
+
+/* ── SECTION LABEL (your style — centered with lines) ── */
+.sec-label {
+  font-size: 10.5px;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  text-align: center;
+}
+.sec-label::before,
+.sec-label::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+/* ── LOADING ── */
+.loading-wrap { text-align: center; padding: 3.5rem 1rem; display: none; }
+.spinner-ring {
+  width: 44px; height: 44px;
+  margin: 0 auto 1.2rem;
+  border-radius: 50%;
+  border: 3px solid var(--border-md);
+  border-top-color: var(--saffron);
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text { font-size: 14px; color: var(--text-muted); }
+
+/* ── ERROR ── */
+.err-banner {
+  display: none;
+  background: rgba(220,50,50,0.08);
+  border: 1px solid rgba(220,50,50,0.25);
+  border-radius: var(--r-sm);
+  padding: 12px 16px;
+  font-size: 13px;
+  color: #C0392B;
+  margin-bottom: 1.5rem;
+  border-left: 3px solid #C0392B;
+}
+[data-theme="dark"] .err-banner { color: #FF8080; }
+
+/* ── ANSWER CARD ── */
+#answer-section { display: none; margin-bottom: 2rem; }
+.answer-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  transition: background 0.3s, border-color 0.3s;
+}
+.answer-topbar {
+  padding: 14px 20px;
+  background: linear-gradient(135deg, var(--saffron-light) 0%, #FFF8F0 100%);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+[data-theme="dark"] .answer-topbar { background: linear-gradient(135deg, rgba(232,101,10,0.12) 0%, rgba(232,101,10,0.06) 100%); }
+.badge-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.cat-badge { font-size: 11px; font-weight: 600; letter-spacing: 0.07em; text-transform: uppercase; padding: 4px 12px; border-radius: 20px; background: var(--saffron); color: #fff; box-shadow: 0 1px 8px rgba(232,101,10,0.3); }
+.conf-badge { font-size: 11px; font-weight: 500; padding: 4px 12px; border-radius: 20px; }
+.conf-high   { background: var(--green-light);  color: var(--green); }
+.conf-medium { background: #FFF8E5; color: #8A6400; }
+.conf-low    { background: rgba(200,50,50,0.1); color: #C0392B; }
+[data-theme="dark"] .conf-high   { background: rgba(11,122,69,0.2);  color: #4DDB9A; }
+[data-theme="dark"] .conf-medium { background: rgba(200,160,0,0.15); color: #FFD060; }
+[data-theme="dark"] .conf-low    { background: rgba(200,50,50,0.15); color: #FF8080; }
+.lawyer-badge { display: none; align-items: center; gap: 5px; font-size: 11px; font-weight: 500; padding: 4px 12px; border-radius: 20px; background: rgba(200,50,50,0.1); color: #C0392B; }
+[data-theme="dark"] .lawyer-badge { background: rgba(200,50,50,0.15); color: #FF8080; }
+.answer-body { padding: 24px; }
+.answer-text { font-size: 15px; line-height: 1.8; color: var(--text-primary); white-space: pre-wrap; word-break: break-word; }
+.sources-bar { padding: 12px 20px; border-top: 1px solid var(--border); background: var(--bg-surface); display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+.src-label { font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); font-weight: 600; margin-right: 3px; }
+.src-chip { font-size: 11px; color: var(--text-secondary); background: var(--bg-card); border: 1px solid var(--border); border-radius: 6px; padding: 3px 10px; display: flex; align-items: center; gap: 5px; }
+.src-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--saffron); }
+.actions-bar { padding: 14px 20px; border-top: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 8px; }
+.act-link { display: flex; align-items: center; gap: 6px; font-size: 12.5px; font-weight: 500; color: var(--navy-mid); background: var(--bg-card); border: 1px solid var(--border-md); border-radius: 8px; padding: 7px 14px; text-decoration: none; transition: all 0.18s; }
+.act-link:hover { border-color: var(--saffron); color: var(--saffron); background: var(--saffron-light); transform: translateY(-1px); box-shadow: var(--shadow-sm); }
+[data-theme="dark"] .act-link { color: var(--text-secondary); }
+[data-theme="dark"] .act-link:hover { color: var(--saffron-mid); }
+
+/* ── EXAMPLE CHIPS ── */
+.examples-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 10px; margin-bottom: 2.5rem; }
+.ex-chip { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--r-md); padding: 12px 15px; text-align: left; cursor: pointer; font-family: var(--font-body); transition: all 0.2s; box-shadow: var(--shadow-sm); }
+.ex-chip:hover { border-color: var(--saffron); background: var(--saffron-light); transform: translateY(-2px); box-shadow: var(--shadow-md); }
+[data-theme="dark"] .ex-chip:hover { background: rgba(232,101,10,0.08); }
+.ex-cat { font-size: 10px; text-transform: uppercase; letter-spacing: 0.09em; color: var(--saffron); font-weight: 600; margin-bottom: 4px; }
+.ex-text { font-size: 13px; color: var(--text-secondary); line-height: 1.45; }
+
+/* ── RTI SECTION ── */
+.rti-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--r-lg); overflow: hidden; box-shadow: var(--shadow-md); margin-bottom: 2rem; }
+.rti-head { background: linear-gradient(135deg, var(--green) 0%, #0D9456 100%); padding: 18px 22px; display: flex; align-items: center; gap: 12px; }
+.rti-icon { width: 36px; height: 36px; background: rgba(255,255,255,0.15); border-radius: 9px; display: flex; align-items: center; justify-content: center; font-size: 18px; }
+.rti-head-text h3 { color: #fff; font-size: 15px; font-weight: 600; margin-bottom: 2px; }
+.rti-head-text p  { color: rgba(255,255,255,0.65); font-size: 12.5px; }
+.rti-body { padding: 22px; }
+.rti-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-bottom: 16px; }
+.rti-grid .full { grid-column: 1 / -1; }
+.field-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); margin-bottom: 6px; display: block; }
+.field-input { width: 100%; background: var(--bg-input); border: 1.5px solid var(--border-md); border-radius: var(--r-sm); padding: 10px 13px; font-size: 14px; font-family: var(--font-body); color: var(--text-primary); outline: none; transition: border-color 0.2s, box-shadow 0.2s; }
+.field-input:focus { border-color: var(--green); box-shadow: 0 0 0 3px rgba(11,122,69,0.12); }
+textarea.field-input { resize: vertical; min-height: 90px; line-height: 1.55; }
+
+/* ── RTI LANGUAGE ROW ── */
+.rti-lang-row { margin-bottom: 14px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.rti-lang-label { font-size: 12px; font-weight: 500; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.07em; }
+.rti-lang-btn { padding: 5px 14px; border-radius: 20px; border: 1.5px solid var(--border-md); background: var(--bg-surface); font-size: 13px; font-family: var(--font-body); font-weight: 500; color: var(--text-secondary); cursor: pointer; transition: all 0.18s; }
+.rti-lang-btn:hover { border-color: var(--green); color: var(--green); }
+.rti-lang-btn.active { background: var(--green); border-color: var(--green); color: #fff; }
+
+.rti-gen-btn { background: linear-gradient(135deg, var(--green) 0%, #0D9456 100%); border: none; border-radius: var(--r-sm); color: #fff; padding: 11px 24px; font-size: 14px; font-weight: 600; font-family: var(--font-body); cursor: pointer; display: flex; align-items: center; gap: 8px; transition: all 0.2s; box-shadow: 0 2px 12px rgba(11,122,69,0.3); }
+.rti-gen-btn:hover { transform: translateY(-1px); box-shadow: 0 4px 20px rgba(11,122,69,0.4); }
+.rti-gen-btn:disabled { opacity: 0.5; cursor: not-allowed; transform: none; }
+
+/* ── RTI RESULT ── */
+#rti-result { display: none; margin-bottom: 2rem; }
+.draft-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--r-lg); overflow: hidden; box-shadow: var(--shadow-md); }
+.draft-head { padding: 14px 20px; background: var(--green-light); border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+[data-theme="dark"] .draft-head { background: rgba(11,122,69,0.12); }
+.draft-head h3 { font-size: 14px; font-weight: 600; color: var(--green); }
+[data-theme="dark"] .draft-head h3 { color: #4DDB9A; }
+.copy-btn { background: none; border: 1.5px solid var(--green); border-radius: 7px; color: var(--green); font-size: 12px; font-weight: 600; padding: 5px 13px; cursor: pointer; font-family: var(--font-body); display: flex; align-items: center; gap: 5px; transition: all 0.18s; }
+.copy-btn:hover { background: var(--green-light); }
+[data-theme="dark"] .copy-btn { color: #4DDB9A; border-color: #4DDB9A; }
+[data-theme="dark"] .copy-btn:hover { background: rgba(11,122,69,0.15); }
+.draft-text { padding: 22px; font-family: var(--font-mono); font-size: 13px; line-height: 1.75; color: var(--text-primary); white-space: pre-wrap; word-break: break-word; background: var(--bg-code); border-bottom: 1px solid var(--border); }
+.steps-body { padding: 22px; }
+.steps-body h4 { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 12px; }
+.step-row { padding: 10px 15px; margin-bottom: 8px; background: var(--bg-surface); border-radius: 9px; font-size: 13.5px; color: var(--text-secondary); line-height: 1.55; border-left: 3px solid var(--green); }
+[data-theme="dark"] .step-row { border-left-color: #4DDB9A; }
+.portal-row { margin-top: 12px; font-size: 12px; color: var(--text-muted); }
+.portal-row a { color: var(--green); font-weight: 600; text-decoration: none; }
+[data-theme="dark"] .portal-row a { color: #4DDB9A; }
+.tips-body { padding: 18px 22px; border-top: 1px solid var(--border); background: var(--bg-surface); }
+.tips-body h4 { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); margin-bottom: 10px; }
+.tip-row { font-size: 13px; color: var(--text-secondary); margin-bottom: 7px; line-height: 1.5; padding-left: 6px; }
+
+/* ── FOOTER ── */
+.footer { text-align: center; padding: 2rem 1.5rem; border-top: 1px solid var(--border); font-size: 12px; color: var(--text-muted); background: var(--bg-surface); }
+.footer a { color: var(--saffron); text-decoration: none; font-weight: 500; }
+
+/* ── DARK MODE TOGGLE ── */
+.theme-toggle { position: fixed; bottom: 28px; right: 28px; z-index: 999; width: 54px; height: 54px; border-radius: 50%; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 22px; transition: all 0.25s ease; box-shadow: 0 4px 20px rgba(0,0,0,0.2); }
+[data-theme="light"] .theme-toggle { background: var(--navy); box-shadow: 0 4px 20px rgba(14,31,56,0.35); }
+[data-theme="dark"]  .theme-toggle { background: #2A3550; box-shadow: 0 4px 20px rgba(0,0,0,0.45); }
+.theme-toggle:hover { transform: scale(1.1) rotate(15deg); }
+.theme-toggle:active { transform: scale(0.95); }
+.toggle-tooltip { position: absolute; right: 62px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 7px; padding: 5px 11px; font-size: 12px; font-family: var(--font-body); color: var(--text-secondary); white-space: nowrap; opacity: 0; pointer-events: none; transition: opacity 0.2s; box-shadow: var(--shadow-sm); }
+.theme-toggle:hover .toggle-tooltip { opacity: 1; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 600px) {
+  .rti-grid { grid-template-columns: 1fr; }
+  .stats-row { gap: 1.5rem; }
+  .tech-badge { display: none; }
+  .hero { padding: 1.2rem 1.2rem 1.8rem; }
+  .main { padding: 1.5rem 1rem 5rem; }
+  .theme-toggle { bottom: 20px; right: 20px; width: 48px; height: 48px; font-size: 20px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Top bar -->
+<nav class="topbar">
+  <a class="logo" href="#">
+    <div class="logo-emblem">⚖</div>
+    <span class="logo-name">Citizen<span>Aid</span></span>
+  </a>
+  <div class="topbar-right">
+    <span class="tech-badge">RAG</span>
+    <span class="tech-badge">LangChain</span>
+    <span class="tech-badge">LangGraph</span>
+    <span class="tech-badge">ChromaDB</span>
+  </div>
+</nav>
+
+<!-- Hero -->
+<header class="hero">
+  <p class="hero-eyebrow">Free Legal Guidance for Every Indian Citizen</p>
+  <h1>
+    Citizen<span class="aid-highlight">Aid</span><br>
+    <em>Know your rights.</em>
+  </h1>
+  <p class="hero-sub">Ask about RTI, consumer complaints, FIR filing, fundamental rights, and labour laws — answered in plain language.</p>
+
+  <div class="stats-row">
+    <div class="stat-item">
+      <div class="stat-num"><span>99</span>+</div>
+      <div class="stat-label">Acts &amp; Laws Covered</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num"><span>16</span></div>
+      <div class="stat-label">Knowledge Files</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num"><span>12</span></div>
+      <div class="stat-label">Categories</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num"><span>3</span></div>
+      <div class="stat-label">Languages</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num"><span>0</span> ₹</div>
+      <div class="stat-label">Cost to You</div>
+    </div>
+  </div>
+
+  <!-- Category pills -->
+  <div class="cat-row">
+    <button class="cat-pill active" data-cat="" onclick="selectCat(this,'')">🔍 All</button>
+    <button class="cat-pill" data-cat="RTI" onclick="selectCat(this,'RTI')">📄 RTI</button>
+    <button class="cat-pill" data-cat="Consumer" onclick="selectCat(this,'Consumer')">🛒 Consumer</button>
+    <button class="cat-pill" data-cat="Constitutional" onclick="selectCat(this,'Constitutional')">⚖️ Fundamental Rights</button>
+    <button class="cat-pill" data-cat="Criminal" onclick="selectCat(this,'Criminal')">🚨 FIR &amp; Criminal</button>
+    <button class="cat-pill" data-cat="Labour" onclick="selectCat(this,'Labour')">👷 Labour</button>
+  </div>
+
+  <!-- Language selector -->
+  <div class="lang-selector-wrap">
+    <p class="lang-label">Choose your language / अपनी भाषा चुनें / আপনার ভাষা বেছে নিন</p>
+    <div class="lang-btn-group">
+      <button class="lang-btn active" data-lang="en" onclick="setLang(this,'en')">
+        <span class="lang-flag">🇬🇧</span>
+        <span class="lang-name">English</span>
+      </button>
+      <button class="lang-btn" data-lang="hi" onclick="setLang(this,'hi')">
+        <span class="lang-flag">🇮🇳</span>
+        <span class="lang-name">हिंदी</span>
+        <span class="lang-sub">Hindi</span>
+      </button>
+      <button class="lang-btn" data-lang="bn" onclick="setLang(this,'bn')">
+        <span class="lang-flag">🇮🇳</span>
+        <span class="lang-name">বাংলা</span>
+        <span class="lang-sub">Bengali</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Search -->
+  <div class="search-wrap">
+    <div class="search-box">
+      <textarea id="question" rows="2"
+        placeholder="Describe your situation…"
+        onkeydown="handleKey(event)"></textarea>
+      <div class="search-footer">
+        <button class="ask-btn" id="ask-btn" onclick="askQuestion()">Ask →</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Main -->
+<main class="main">
+
+  <div class="loading-wrap" id="loading">
+    <div class="spinner-ring"></div>
+    <p class="loading-text" id="loading-text">Searching legal database…</p>
+  </div>
+
+  <div class="err-banner" id="err-banner"></div>
+
+  <!-- Answer -->
+  <div id="answer-section">
+    <div class="sec-label">Legal guidance</div>
+    <div class="answer-card">
+      <div class="answer-topbar">
+        <div class="badge-row">
+          <span class="cat-badge" id="res-cat">RTI</span>
+          <span class="conf-badge" id="res-conf">High confidence</span>
+          <span class="lawyer-badge" id="res-lawyer">⚠️ Lawyer recommended</span>
+        </div>
+      </div>
+      <div class="answer-body">
+        <div class="answer-text" id="res-answer"></div>
+      </div>
+      <div class="sources-bar" id="res-sources"></div>
+      <div class="actions-bar" id="res-actions"></div>
+    </div>
+  </div>
+
+  <!-- Examples — your label -->
+  <div class="sec-label">Common situations — FAQs</div>
+  <div class="examples-grid" id="examples-grid"></div>
+
+  <!-- RTI Generator -->
+  <div class="sec-label">RTI Draft Generator</div>
+  <div class="rti-card">
+    <div class="rti-head">
+      <div class="rti-icon">📋</div>
+      <div class="rti-head-text">
+        <h3>Generate RTI Application</h3>
+        <p>Describe your situation — get a ready-to-send formal draft</p>
+      </div>
+    </div>
+    <div class="rti-body">
+
+      <!-- RTI Language selector -->
+      <div class="rti-lang-row">
+        <span class="rti-lang-label">Draft language:</span>
+        <button class="rti-lang-btn active" data-lang="en" onclick="setRtiLang(this,'en')">🇬🇧 English</button>
+        <button class="rti-lang-btn" data-lang="hi" onclick="setRtiLang(this,'hi')">🇮🇳 हिंदी</button>
+        <button class="rti-lang-btn" data-lang="bn" onclick="setRtiLang(this,'bn')">🇮🇳 বাংলা</button>
+      </div>
+
+      <div class="rti-grid">
+        <div class="full">
+          <label class="field-label">Your situation *</label>
+          <textarea class="field-input" id="rti-sit"
+            placeholder="e.g. I applied for PM Awas Yojana 8 months ago. The block office says it's pending but gives no reason."></textarea>
+        </div>
+        <div>
+          <label class="field-label">Department (optional)</label>
+          <input class="field-input" id="rti-dept" type="text" placeholder="e.g. Municipal Corporation…">
+        </div>
+        <div>
+          <label class="field-label">State (optional)</label>
+          <input class="field-input" id="rti-state" type="text" placeholder="e.g. West Bengal…">
+        </div>
+        <div>
+          <label class="field-label">Your name (for draft)</label>
+          <input class="field-input" id="rti-name" type="text" placeholder="e.g. Suresh Kumar">
+        </div>
+      </div>
+      <button class="rti-gen-btn" id="rti-btn" onclick="genRTI()">
+        📝 Generate RTI Draft
+      </button>
+    </div>
+  </div>
+
+  <!-- RTI Result -->
+  <div id="rti-result">
+    <div class="draft-card">
+      <div class="draft-head">
+        <h3>📄 RTI Application Draft</h3>
+        <button class="copy-btn" onclick="copyDraft()">📋 Copy Draft</button>
+      </div>
+      <div class="draft-text" id="draft-text"></div>
+      <div class="steps-body">
+        <h4>Filing Steps</h4>
+        <div id="steps-list"></div>
+        <div class="portal-row">
+          🔗 Portal: <a id="portal-link" href="#" target="_blank"></a>
+          &nbsp;·&nbsp;
+          Authority: <span id="authority-text" style="color:var(--text-secondary);font-size:12px;"></span>
+        </div>
+      </div>
+      <div class="tips-body">
+        <h4>Pro Tips</h4>
+        <div id="tips-list"></div>
+      </div>
+    </div>
+  </div>
+
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+  <p>CitizenAid — Built with LangChain · LangGraph · ChromaDB · FastAPI · Groq Llama</p>
+  <p style="margin-top:5px;">For serious legal matters, always consult a qualified advocate.
+     Free legal aid via NALSA: <a href="tel:15100">15100</a></p>
+</footer>
+
+<!-- Dark/Light toggle -->
+<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark/light mode">
+  <span id="theme-icon">🌙</span>
+  <span class="toggle-tooltip" id="toggle-tip">Switch to dark mode</span>
+</button>
+
+<script>
+/* ── Theme ── */
+const html = document.documentElement;
+const icon = document.getElementById('theme-icon');
+const tip  = document.getElementById('toggle-tip');
+
+function applyTheme(t) {
+  html.setAttribute('data-theme', t);
+  icon.textContent = t === 'dark' ? '☀️' : '🌙';
+  tip.textContent  = t === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+  localStorage.setItem('ca-theme', t);
+}
+function toggleTheme() {
+  applyTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+}
+applyTheme(localStorage.getItem('ca-theme') || 'light');
+
+/* ── State ── */
+// Relative URL — works on localhost, HuggingFace, Railway, Render — everywhere
+// FastAPI serves both the frontend AND the API, so /api/query always resolves correctly
+const API = '';
+let selectedCat     = '';
+let selectedLang    = 'en';
+let selectedRtiLang = 'en';
+
+const PLACEHOLDERS = {
+  en: "Describe your situation… e.g. 'My PF was not deposited for 6 months. What can I do?'",
+  hi: "अपनी समस्या बताएं… जैसे 'मेरे नियोक्ता ने 6 महीने से PF जमा नहीं किया। मैं क्या करूं?'",
+  bn: "আপনার সমস্যা বলুন… যেমন 'আমার নিয়োগকর্তা ৬ মাস ধরে PF জমা দেননি। আমি কী করব?'",
+};
+
+/* ── Examples (your additions kept) ── */
+const EXAMPLES = [
+  { cat:'RTI',           text:'How do I check status of my ration card application?' },
+  { cat:'RTI',           text:'PF not credited for 6 months — what information can I seek?' },
+  { cat:'Consumer',      text:'Builder delayed flat possession by 2 years' },
+  { cat:'Consumer',      text:'E-commerce delivered counterfeit product, won\'t refund' },
+  { cat:'Criminal',      text:'Police refused to register my FIR — what can I do?' },
+  { cat:'Criminal',      text:'I was cheated in an online fraud. How to recover money?' },
+  { cat:'Constitutional',text:'Government demolished my shop without notice' },
+  { cat:'Labour',        text:'Employer not paying minimum wages — which law helps me?' },
+  { cat:'Consumer',      text:'Insurance company rejected claim without valid reason' },
+  { cat:'Labour',        text:'My employer deducted salary without reason. Is this legal?' },
+  { cat:'Rent',          text:'My landlord refused to return my security deposit after I vacated' },
+  { cat:'Corporate',     text:'My company terminated me without notice despite a valid employment contract' },
+];
+
+function buildExamples() {
+  document.getElementById('examples-grid').innerHTML = EXAMPLES.map(e => `
+    <button class="ex-chip" onclick="prefill(${JSON.stringify(e.text)},${JSON.stringify(e.cat)})">
+      <div class="ex-cat">${e.cat}</div>
+      <div class="ex-text">${e.text}</div>
+    </button>`).join('');
+}
+buildExamples();
+
+/* ── Language ── */
+function setLang(el, lang) {
+  document.querySelectorAll('.lang-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  selectedLang = lang;
+  document.getElementById('question').placeholder = PLACEHOLDERS[lang];
+  document.documentElement.lang = lang === 'hi' ? 'hi' : lang === 'bn' ? 'bn' : 'en';
+}
+
+function setRtiLang(el, lang) {
+  document.querySelectorAll('.rti-lang-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  selectedRtiLang = lang;
+}
+
+function selectCat(el, cat) {
+  document.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
+  el.classList.add('active');
+  selectedCat = cat;
+}
+
+function prefill(text, cat) {
+  document.getElementById('question').value = text;
+  document.querySelectorAll('.cat-pill').forEach(p => {
+    p.classList.toggle('active', p.dataset.cat === cat);
+  });
+  selectedCat = cat;
+  askQuestion();
+}
+
+function handleKey(e) {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); askQuestion(); }
+}
+
+/* ── UI helpers ── */
+function showLoad(msg) {
+  document.getElementById('loading').style.display = 'block';
+  document.getElementById('loading-text').textContent = msg || 'Searching legal database…';
+  document.getElementById('answer-section').style.display = 'none';
+  document.getElementById('err-banner').style.display = 'none';
+}
+function hideLoad() { document.getElementById('loading').style.display = 'none'; }
+function showErr(msg) {
+  const el = document.getElementById('err-banner');
+  el.textContent = '⚠️ ' + msg;
+  el.style.display = 'block';
+}
+
+/* ── Ask ── */
+async function askQuestion() {
+  const q = document.getElementById('question').value.trim();
+  if (!q) return;
+  const btn = document.getElementById('ask-btn');
+  btn.disabled = true;
+  showLoad('Searching legal database…');
+  try {
+    const res = await fetch(`${API}/api/query`, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({ question: q, language: selectedLang, category: selectedCat || null }),
+    });
+    if (!res.ok) throw new Error(`Server error ${res.status}`);
+    renderAnswer(await res.json());
+  } catch(err) {
+    hideLoad();
+    showErr('Could not connect to CitizenAid server. Please try again. ' + err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+/* ── Render answer ── */
+function renderAnswer(d) {
+  hideLoad();
+  document.getElementById('res-cat').textContent = d.category || 'General';
+  const conf = document.getElementById('res-conf');
+  conf.textContent = {high:'High confidence',medium:'Medium confidence',low:'Low confidence'}[d.confidence] || 'Medium confidence';
+  conf.className = 'conf-badge conf-' + (d.confidence || 'medium');
+  const lb = document.getElementById('res-lawyer');
+  lb.style.display = d.needs_lawyer ? 'flex' : 'none';
+  document.getElementById('res-answer').textContent = d.answer;
+  const srcDiv = document.getElementById('res-sources');
+  srcDiv.innerHTML = '<span class="src-label">Sources</span>' +
+    (d.sources || []).map(s =>
+      `<span class="src-chip"><span class="src-dot"></span>${s.source || s.file}</span>`
+    ).join('');
+  const actDiv = document.getElementById('res-actions');
+  actDiv.innerHTML = (d.quick_actions || []).map(a => {
+    const u = (a.match(/https?:\/\/[^\s]+/) || ['#'])[0];
+    const l = a.replace(/https?:\/\/[^\s]+/,'').replace(/→\s*$/,'').trim();
+    return `<a class="act-link" href="${u}" target="_blank">${l} ↗</a>`;
+  }).join('');
+  document.getElementById('answer-section').style.display = 'block';
+  document.getElementById('answer-section').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+/* ── Generate RTI ── */
+async function genRTI() {
+  const sit = document.getElementById('rti-sit').value.trim();
+  if (!sit) { alert('Please describe your situation first.'); return; }
+  const btn = document.getElementById('rti-btn');
+  btn.disabled = true;
+  document.getElementById('rti-result').style.display = 'none';
+  try {
+    const res = await fetch(`${API}/api/rti/draft`, {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        situation:      sit,
+        department:     document.getElementById('rti-dept').value.trim()  || null,
+        state:          document.getElementById('rti-state').value.trim() || null,
+        applicant_name: document.getElementById('rti-name').value.trim()  || 'Applicant',
+        language:       selectedRtiLang,
+      }),
+    });
+    if (!res.ok) throw new Error(`Server error ${res.status}`);
+    renderRTI(await res.json());
+  } catch(err) {
+    alert('Could not generate RTI draft. Make sure the backend is running. ' + err.message);
+  } finally {
+    btn.disabled = false;
+  }
+}
+
+/* ── Render RTI ── */
+function renderRTI(d) {
+  document.getElementById('draft-text').textContent = d.draft;
+  document.getElementById('steps-list').innerHTML = (d.steps||[]).map(s =>
+    `<div class="step-row">${s.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>')}</div>`
+  ).join('');
+  document.getElementById('tips-list').innerHTML = (d.tips||[]).map(t =>
+    `<div class="tip-row">${t}</div>`
+  ).join('');
+
+  /* ── Fixed portal link — shows real state URL ── */
+  const pl = document.getElementById('portal-link');
+  const portalUrl = d.portal_link || '';
+  if (portalUrl.startsWith('http')) {
+    pl.href = portalUrl;
+    pl.textContent = portalUrl;
+  } else if (portalUrl.toLowerCase().includes('state')) {
+    const stateName = document.getElementById('rti-state').value.trim();
+    pl.href = 'https://www.google.com/search?q=' + encodeURIComponent('RTI portal ' + (stateName || 'state government'));
+    pl.textContent = stateName ? `Find ${stateName} RTI portal ↗` : 'Find your State RTI portal ↗';
+  } else {
+    pl.href = '#';
+    pl.textContent = portalUrl || 'State RTI Portal';
+  }
+
+  document.getElementById('authority-text').textContent = d.authority || '';
+  document.getElementById('rti-result').style.display = 'block';
+  document.getElementById('rti-result').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+/* ── Copy draft ── */
+function copyDraft() {
+  navigator.clipboard.writeText(document.getElementById('draft-text').textContent).then(() => {
+    const b = document.querySelector('.copy-btn');
+    b.textContent = '✓ Copied!';
+    setTimeout(() => { b.innerHTML = '📋 Copy Draft'; }, 2000);
+  });
+}
+</script>
+</body>
+</html>

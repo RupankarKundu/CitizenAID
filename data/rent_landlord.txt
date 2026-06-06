@@ -1,0 +1,98 @@
+SOURCE: Rent Control Acts (State-wise) & Transfer of Property Act 1882 | CATEGORY: Landlord-Tenant | JURISDICTION: India
+
+OVERVIEW
+Rent control is a state subject in India. Each state has its own Rent Control Act. Key states: West Bengal Premises Tenancy Act 1997, Delhi Rent Control Act 1958, Maharashtra Rent Control Act 1999, Tamil Nadu Buildings (Lease and Rent Control) Act 1960. The Transfer of Property Act 1882 governs general landlord-tenant relationships where state rent laws don't apply.
+
+TENANT RIGHTS — PROTECTION AGAINST EVICTION
+A tenant cannot be evicted except on specific legal grounds, which typically include:
+1. Non-payment of rent for specified period (usually 2-3 months)
+2. Subletting without permission
+3. Using property for illegal purposes
+4. Causing damage to the property
+5. Landlord bonafide need for personal use
+6. Expiry of tenancy period (only in some states)
+
+A landlord CANNOT evict a tenant:
+- Without filing an eviction suit in the Rent Controller's court
+- Without giving proper legal notice
+- By cutting off water, electricity, or other essential services
+- By forcibly entering or changing locks — this is illegal under Section 503 IPC (criminal intimidation)
+- Verbally or by threatening behaviour
+
+ILLEGAL EVICTION — WHAT TO DO
+If landlord forcibly evicts, cuts electricity/water, or threatens:
+1. Call police immediately (dial 100) — forcible eviction is a criminal offence
+2. File FIR under Section 441 IPC (criminal trespass) and Section 503 IPC (criminal intimidation)
+3. File application before Rent Controller for restoration of possession
+4. Approach Civil Court for injunction to restore possession
+5. File complaint with State Human Rights Commission if fundamental rights violated
+
+NOTICE PERIOD FOR EVICTION
+- Landlord must give written notice before filing eviction case
+- Notice period: typically 1 month for month-to-month tenancy, 3 months for annual tenancy
+- Notice must specify the ground for eviction
+- Tenant can contest the eviction notice in Rent Controller's court
+
+RENT INCREASE
+- Landlord cannot increase rent arbitrarily
+- Under most state rent laws, rent increase is regulated and capped
+- Standard increase: 5-10% per year depending on state
+- Any increase must be communicated in writing
+- Tenant can challenge unreasonable rent hike before Rent Controller
+
+RENT RECEIPT — TENANT'S RIGHT
+- Tenant has the right to demand rent receipt for every payment
+- Landlord is legally obligated to provide written rent receipt
+- Keep all rent receipts safely — they are proof of tenancy
+- If landlord refuses receipt, pay by cheque/bank transfer so there is a record
+
+SECURITY DEPOSIT
+- No national law governs security deposit amount
+- Most states: 2-3 months rent is standard
+- Landlord must return deposit within 30-60 days of vacating
+- Deductions must be justified and itemised in writing
+- If wrongfully withheld: file case before Small Causes Court or Consumer Forum
+
+RENT AGREEMENT / LEASE DEED
+- Always insist on a written rent agreement
+- Agreement should be registered if tenancy exceeds 11 months
+- Unregistered agreements of less than 12 months are valid as evidence
+- Key terms to include: rent amount, due date, notice period, deposit amount, maintenance responsibilities, pet policy
+- If no agreement exists: possession receipts and rent receipts prove tenancy
+
+MAINTENANCE AND REPAIRS
+- Structural repairs: landlord's responsibility
+- Day-to-day maintenance: tenant's responsibility (unless agreed otherwise)
+- If landlord refuses essential repairs affecting habitability, tenant can:
+  1. Send written notice to landlord
+  2. Get repairs done and deduct from rent (in some states)
+  3. File complaint with Rent Controller
+
+WEST BENGAL SPECIFIC — WEST BENGAL PREMISES TENANCY ACT 1997
+- Tenant cannot be evicted without court order from Rent Controller
+- Grounds: non-payment of rent, subletting, nuisance, personal need of landlord
+- Standard rent can be fixed by Rent Controller
+- Tenant can apply to fix fair rent if landlord demands excess
+- Filing court: Rent Control Court at district level
+
+DELHI RENT CONTROL ACT
+- Covers premises with monthly rent below Rs. 3,500 (premises above this under Transfer of Property Act)
+- Rent Controller has exclusive jurisdiction
+- Tenant has strong protection — eviction only on specific grounds
+- Fair rent can be fixed by Rent Controller
+
+WHAT TO DO IF LANDLORD HARASSES YOU
+Step 1: Document everything — keep written records of all communication
+Step 2: Send registered letter to landlord stating your objection
+Step 3: File complaint with local police if harassment is criminal in nature
+Step 4: Approach Rent Controller for protection
+Step 5: File complaint with State Legal Services Authority for free legal help
+Step 6: Approach District Magistrate if essential services are cut
+
+LANDLORD RIGHTS
+Landlords have legitimate rights too:
+- Right to receive rent on due date
+- Right to evict on legal grounds through proper court process
+- Right to inspect property with reasonable notice (typically 24 hours)
+- Right to recover possession for genuine personal use
+- Right to not allow subletting without permission

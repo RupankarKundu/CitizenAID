@@ -1,0 +1,9 @@
+cd C:\Users\rupan\Documents\CitizenAID
+venv\Scripts\activate
+cd backend
+uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+Loading existing ChromaDB
+LangGraph RTI agent compiled (6 nodes)
+CitizenAid ready.
+INFO: Application startup complete.

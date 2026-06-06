@@ -1,0 +1,102 @@
+SOURCE: Registration Act 1908, Transfer of Property Act 1882, Land Acquisition Act 2013, Benami Transactions Act | CATEGORY: Property Rights | JURISDICTION: India
+
+BUYING PROPERTY — LEGAL CHECKLIST
+Before buying any property:
+1. Check title deed — verify seller is actual owner (check for last 30 years)
+2. Check encumbrance certificate from Sub-Registrar — shows all loans/mortgages on property
+3. Check property tax receipts — ensure no dues pending
+4. Check approved building plan (for constructed property)
+5. Check Occupancy Certificate (OC) for apartments
+6. Check for litigation — search court records
+7. Verify land use: residential/commercial/agricultural — check with local planning authority
+8. For agricultural land: check if conversion to non-agricultural use is done
+
+PROPERTY REGISTRATION — MANDATORY
+Any property transaction above Rs. 100 must be registered. Unregistered sale deed is not valid for transferring title. Registration must happen within 4 months of execution of deed. Stamp duty and registration charges vary by state (typically 5-7% of property value).
+
+HOW TO REGISTER PROPERTY
+Step 1: Execute sale deed on stamp paper of required value
+Step 2: Both buyer and seller visit Sub-Registrar's office with original documents
+Step 3: Pay stamp duty and registration fee
+Step 4: Documents verified and registered
+Step 5: Collect registered document — this is your title deed
+
+PROPERTY MUTATION (DAKHIL KHARIJ)
+After buying property, get mutation done in revenue records:
+- Apply at local Municipal Corporation or Revenue/Tehsil office
+- Submit: registered sale deed, property tax receipts, identity proof
+- Mutation in revenue records establishes your name as owner for tax purposes
+- Without mutation, property tax still comes in previous owner's name
+- File RTI if mutation is delayed without reason
+
+LAND RECORDS — HOW TO CHECK
+- Khatauni (Record of Rights): shows who owns the land and what they own
+- Khasra/Plot map: shows boundaries of the land
+- Check online: most states have digitized land records
+  - West Bengal: banglarbhumi.gov.in
+  - Maharashtra: mahabhulekh.maharashtra.gov.in
+  - Delhi: dlrc.delhigovt.nic.in
+  - UP: upbhulekh.gov.in
+  - Karnataka: landrecords.karnataka.gov.in
+
+ENCROACHMENT ON YOUR LAND
+If someone has illegally occupied your land:
+Step 1: File FIR at local police station under Section 441 IPC (criminal trespass)
+Step 2: File civil suit for recovery of possession in civil court
+Step 3: Apply for injunction to prevent further construction
+Step 4: File complaint with Revenue/Tehsil officer for action on encroachment
+Step 5: File RTI to get land records and mutation details
+
+PROPERTY DISPUTES WITH FAMILY
+- If ancestral property: all legal heirs have equal rights
+- Partition suit: any co-owner can file suit for partition in civil court
+- Father cannot disinherit children from ancestral property
+- Self-acquired property: owner can give to anyone through will
+
+INHERITANCE AND SUCCESSION
+Hindu Succession Act 1956 (amended 2005):
+- Daughter has equal right as son in ancestral property
+- Class I heirs: son, daughter, widow, mother get equal share
+- If no will: property divided equally among legal heirs
+- Muslim inheritance: governed by personal law — consult a lawyer
+- Christian inheritance: Indian Succession Act 1925
+
+WILL — HOW TO MAKE A VALID WILL
+- Must be in writing
+- Must be signed by testator (person making will)
+- Must be signed by 2 witnesses (who are not beneficiaries)
+- Registration not mandatory but recommended
+- Can be changed anytime during lifetime
+- Registered at Sub-Registrar's office
+
+BENAMI PROPERTY
+Benami Transactions (Prohibition) Amendment Act 2016:
+- Property held in another person's name is benami
+- Benami property can be confiscated by government
+- Punishment: 1-7 years imprisonment + fine up to 25% of property value
+- Informers can report at income tax department
+
+GOVERNMENT LAND ACQUISITION
+Right to Fair Compensation Act 2013:
+- Government must conduct Social Impact Assessment before acquisition
+- Compensation: 2x market value in urban, 3x-4x in rural areas
+- Consent required: 80% for private companies, 70% for PPP projects
+- If not used within 5 years, land must be returned
+- Challenge acquisition in High Court if procedure not followed
+
+PROPERTY TAX
+- Property tax is levied by local body (municipal corporation, panchayat)
+- Pay annually or as demanded — check with your local municipal body
+- Property tax receipt is important proof of possession
+- Challenge wrong assessment before Assessment Officer of municipal body
+- Many municipalities allow online payment and self-assessment
+
+HOMEBUYER RIGHTS AGAINST BUILDERS (RERA)
+Real Estate Regulation Act 2016:
+- Builder must register project with State RERA before selling
+- Buyer has right to full project details: plans, approvals, completion date
+- Builder must deposit 70% of collected amount in separate escrow account
+- Delay in possession: builder must pay interest on deposited amount
+- Structural defects: builder liable for 5 years after possession
+- File complaint at State RERA portal — no lawyer needed for basic complaints
+- RERA Portals: maharera.mahaonline.gov.in (Maharashtra), haryanarera.gov.in (Haryana), etc.

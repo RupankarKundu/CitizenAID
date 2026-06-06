@@ -1,0 +1,138 @@
+SOURCE: State Laws, Regulatory Bodies & Miscellaneous | CATEGORY: State Rights, Banking, Telecom | JURISDICTION: India
+
+=== BANKING AND FINANCIAL GRIEVANCES ===
+
+RBI OMBUDSMAN SCHEME (Integrated Ombudsman 2021):
+Covers complaints against: Scheduled Commercial Banks, NBFCs, Payment System Participants, Credit Information Companies.
+Process:
+1. First complain to bank's own grievance redressal. Wait 30 days.
+2. If no satisfactory response within 30 days, file complaint at cms.rbi.org.in
+3. RBI Ombudsman is FREE — no fees.
+4. Covers: unauthorized transactions, failed ATM transactions, debit without credit, inoperative accounts, mis-selling of insurance/mutual funds, excessive charges, non-implementation of court orders, illegal recovery agents.
+5. Award can be up to Rs. 20 lakhs. For consequential losses, up to Rs. 1 crore.
+Helpline: 14448
+
+INSURANCE GRIEVANCES:
+1. First complain to Grievance Redressal Officer of insurance company. Wait 15 days.
+2. If unsatisfied, approach Insurance Ombudsman (free) within 1 year. Find your Ombudsman at cioins.co.in
+3. Can also approach IRDAI at complaints.irdai.gov.in or call 155255.
+4. Claim cannot be rejected for technical defect if premium was accepted.
+5. Repudiation of claim must be explained in writing.
+
+SEBI INVESTOR COMPLAINTS:
+File complaints against brokers/companies at scores.sebi.gov.in
+SCORES (SEBI Complaints Redress System) — free.
+Also approach stock exchange grievance cells and investor service centres.
+
+=== TELECOM GRIEVANCES ===
+
+TRAI (Telecom Regulatory Authority of India):
+1. First complain to your telecom operator's customer care. Get reference number.
+2. If not resolved in 30 days, escalate to Nodal Officer of the telecom company.
+3. If still not resolved in 30 days, file complaint with Appellate Authority.
+4. For regulatory issues, complaint to TRAI at trai.gov.in
+5. Common issues covered: call drop, billing disputes, unsolicited commercial calls (DND), poor service quality, porting issues.
+
+DND (Do Not Disturb) Registry:
+Register your number on DND by SMS "START DND" to 1909. Complaints about promotional calls after DND registration can be filed at 1909 or trai.gov.in/consumers
+
+=== REAL ESTATE (RERA) ===
+
+RERA (Real Estate Regulation Act 2016):
+All residential/commercial projects above 500 sq meters or 8 apartments must be registered with State RERA.
+Rights of Buyers:
+1. Full information about project including sanctioned plans, approvals, completion date
+2. Compensation for delay in possession
+3. Refund with interest if builder fails to complete project
+4. Structural defect rectification for 5 years after possession
+
+How to file RERA complaint:
+1. Check if your project is registered at your state RERA website (e.g., maharera.mahaonline.gov.in for Maharashtra)
+2. File online complaint with documentary evidence
+3. Adjudicating Officer can award compensation
+4. No court fees — only nominal RERA filing fee
+
+Common RERA reliefs:
+- Delayed possession: Interest @SBI MCLR + 2% on deposited amount for delay period
+- Defective title: Full refund + interest
+- Structural defects: Free rectification within 30 days
+
+=== FOOD AND DRUG SAFETY ===
+
+FSSAI (Food Safety and Standards Authority of India):
+File complaints about adulterated food, mislabeling, unsanitary conditions at food.safety@fssai.gov.in or call 1800-11-2100
+State Food Safety Officer handles local complaints.
+
+DRUG PRICE COMPLAINTS:
+If a medical shop charges more than MRP: File complaint with Drug Control Authority of your state.
+Essential medicines price list available at NPPA website. If charged above NPPA notified price, file complaint at NPPA (nppa.gov.in).
+
+=== ENVIRONMENTAL RIGHTS ===
+
+Right to clean environment is part of Article 21 (Right to Life).
+Industrial pollution complaints: State Pollution Control Board (SPCB)
+National Green Tribunal (NGT): Can approach NGT for environmental violations. NGT has powers of a civil court and can award compensation and give directions. File at ngtonline.nic.in
+
+=== LAND ACQUISITION ===
+
+Right to Fair Compensation and Transparency in Land Acquisition Act, 2013:
+- Government must give Social Impact Assessment before acquiring land
+- Minimum compensation: 2x market value in urban areas, 3x-4x in rural areas + additional
+- Land acquired for private companies requires consent of 80% landowners
+- Land acquired for PPP requires consent of 70% landowners
+- If land not used within 5 years, it must be returned
+
+=== POLICE COMPLAINTS AUTHORITY ===
+
+Supreme Court in Prakash Singh case (2006) mandated:
+- Police Complaints Authority at State level and District level
+- Separate from police administration
+- Handles: serious misconduct, custodial violence, illegal arrest, illegal detention
+- State Lokayukta also handles police complaints in many states
+
+NHRC (National Human Rights Commission):
+Complaints about human rights violations by government officials including police.
+File at nhrc.nic.in or call 1800-11-8188
+
+STATE INFORMATION COMMISSIONS:
+After exhausting First Appeal, approach State Information Commission for state government RTI matters.
+For Central Government RTI, approach Central Information Commission (CIC) at cic.gov.in
+
+=== DISABILITY RIGHTS ===
+
+Rights of Persons with Disabilities Act 2016:
+- 5% reservation in government jobs
+- Free education for disabled children
+- Barrier-free access to public buildings
+- Reservation in poverty alleviation schemes
+- Insurance schemes must not discriminate
+- Chief Commissioner for Persons with Disabilities handles complaints
+
+=== SC/ST RIGHTS (Special Reference) ===
+
+Schedule Caste/Schedule Tribe (Prevention of Atrocities) Act 1989 & 2015 Amendment:
+Protects against: humiliation, forcible tonsure, removal of clothes, public insult, physical violence, land occupation, interference with right to vote, false cases.
+- Immediate FIR must be registered — no preliminary inquiry
+- Free legal aid to victims
+- Special courts for speedy trial
+- Victim compensation scheme
+- Appeal directly to High Court if police refuses to register FIR
+
+=== USEFUL GOVERNMENT PORTALS ===
+
+- CPGRAMS (Central grievances): pgportal.gov.in
+- PM's Office: pmoindi.gov.in
+- RTI Online (Central): rtionline.gov.in
+- Consumer complaints: consumerhelpline.gov.in
+- eDaakhil (Consumer Commission): edaakhil.nic.in
+- Cybercrime: cybercrime.gov.in
+- NALSA (Legal Aid): nalsa.gov.in
+- Labour Ministry: labour.gov.in
+- EPFO grievances: epfigms.gov.in
+- RBI Ombudsman: cms.rbi.org.in
+- IRDAI Insurance: igms.irda.gov.in
+- RERA (varies by state): search "[state name] RERA"
+- SEBI Scores: scores.sebi.gov.in
+- TRAI: trai.gov.in
+- FSSAI: fssai.gov.in
+- NHRC: nhrc.nic.in

@@ -1,0 +1,103 @@
+SOURCE: Motor Vehicles Act 1988 (amended 2019) & Motor Accident Claims Tribunal | CATEGORY: Motor Vehicles & Accidents | JURISDICTION: India
+
+OVERVIEW
+The Motor Vehicles (Amendment) Act 2019 significantly increased penalties and compensation. Every road accident victim has the right to compensation regardless of fault.
+
+WHAT TO DO IMMEDIATELY AFTER AN ACCIDENT
+Step 1: Call 112 (emergency) for ambulance and police
+Step 2: Note down the vehicle number, driver details, insurance details of the other vehicle
+Step 3: Take photos of the accident scene, damage, and injuries
+Step 4: Get names and contact details of witnesses
+Step 5: File FIR at the nearest police station — this is essential for insurance claims
+Step 6: Get medical treatment — costs are claimable
+Step 7: Inform your own insurance company within 24-48 hours
+
+HIT AND RUN ACCIDENTS
+If the vehicle that caused the accident fled:
+- Compensation available from Solatium Fund (government fund for hit and run victims)
+- Death: Rs. 2 lakhs compensation
+- Grievous injury: Rs. 50,000 compensation
+- Apply to Claims Tribunal or insurance company
+
+THIRD PARTY INSURANCE — MANDATORY
+Every vehicle must have at least Third Party (TP) insurance by law. TP insurance covers:
+- Death or bodily injury to third parties (unlimited liability)
+- Property damage up to Rs. 7.5 lakhs
+- If the vehicle that hit you has TP insurance, you can claim from their insurer directly
+
+HOW TO FILE MOTOR ACCIDENT CLAIM
+Step 1: File FIR at police station (essential)
+Step 2: Collect documents: FIR copy, medical bills, doctor's certificate, proof of income, vehicle RC and insurance details of other vehicle
+Step 3: File claim petition before Motor Accident Claims Tribunal (MACT) at district level
+Step 4: No court fee for filing MACT petition
+Step 5: Tribunal will assess compensation and issue award
+Step 6: Appeal to High Court if dissatisfied with award
+
+COMPENSATION CALCULATION
+Compensation depends on:
+1. Medical expenses (actual bills)
+2. Loss of income during treatment
+3. Permanent disability (if any) — calculated as: monthly income × multiplier based on age
+4. Pain and suffering
+5. Funeral expenses (in case of death)
+6. Loss of dependency (if breadwinner died) — calculated as: annual income × multiplier
+
+For death: Compensation = Annual income × multiplier (based on age) + Rs. 15,000 funeral expenses + Rs. 40,000 loss of estate
+
+CASHLESS TREATMENT — GOLDEN HOUR
+Under MV Amendment 2019:
+- Accident victims must receive free treatment in any hospital for first 48 hours (Golden Hour)
+- Hospital cannot refuse treatment for want of money or police formalities
+- Treatment cost borne by government and recovered later from insurance
+- If hospital refuses: file complaint with State Medical Council immediately
+
+INSURANCE CLAIM PROCESS
+For own vehicle damage:
+1. Intimate insurer within 24-48 hours
+2. Don't move vehicle until surveyor inspects (or take photos first)
+3. Take vehicle to authorized garage
+4. Insurer will send surveyor to assess damage
+5. Cashless claim: garage settles directly with insurer
+6. Reimbursement claim: pay first, claim later
+
+If insurer rejects or delays claim:
+1. File grievance with insurer's Grievance Officer
+2. Approach Insurance Ombudsman (free) within 1 year
+3. File complaint with IRDAI at igms.irda.gov.in or call 155255
+4. Approach Consumer Forum
+
+TRAFFIC VIOLATIONS AND CHALLANS — REVISED PENALTIES (2019)
+- Drunk driving: Rs. 10,000 first time, Rs. 15,000 second time + imprisonment
+- Overspeeding: Rs. 1,000-2,000
+- Without helmet: Rs. 1,000 + 3 months licence suspension
+- Without seatbelt: Rs. 1,000
+- Using mobile while driving: Rs. 5,000
+- Without driving licence: Rs. 5,000
+- Without vehicle insurance: Rs. 2,000 first time, Rs. 4,000 second time
+
+HOW TO PAY E-CHALLAN
+- Online at echallan.parivahan.gov.in
+- Enter vehicle number or challan number
+- Pay via UPI/card
+- If you feel challan is wrong: contest at court mentioned on challan
+
+DRIVING LICENCE — RIGHTS AND RULES
+- DL cannot be seized without proper receipt
+- If police seizes DL: demand Form 38A receipt
+- Lost DL: apply at RTO for duplicate
+- DL renewal: can be done online at parivahan.gov.in
+- If DL suspended: you can appeal to Transport Authority
+
+VEHICLE DOCUMENTS REQUIRED
+- Registration Certificate (RC)
+- Insurance Certificate (valid)
+- Pollution Under Control Certificate (PUC)
+- Driving Licence
+- If commercial vehicle: Fitness Certificate, Permit
+
+BUYING USED VEHICLE — PRECAUTIONS
+- Check RC for hypothecation (loan pending)
+- Check for blacklisting on Vahan portal: vahan.parivahan.gov.in
+- Transfer RC within 30 days of purchase
+- Transfer insurance in your name
+- Check for pending challans

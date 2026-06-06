@@ -1,0 +1,127 @@
+SOURCE: Central & State Government Scheme Guidelines | CATEGORY: Government Schemes | JURISDICTION: India
+
+HOUSING SCHEMES
+
+PRADHAN MANTRI AWAS YOJANA — URBAN (PMAY-U)
+Eligibility: Annual income up to Rs. 18 lakhs (different slabs).
+- EWS (Economically Weaker Section): income up to Rs. 3 lakhs — subsidy up to Rs. 2.67 lakhs
+- LIG (Low Income Group): income Rs. 3-6 lakhs — subsidy up to Rs. 2.35 lakhs
+- MIG I: income Rs. 6-12 lakhs — subsidy up to Rs. 2.30 lakhs
+- MIG II: income Rs. 12-18 lakhs — subsidy up to Rs. 2.30 lakhs
+How to apply: Through banks and housing finance companies. Track at pmaymis.gov.in.
+If application rejected or delayed: file RTI with Urban Local Body asking for reason.
+
+PRADHAN MANTRI AWAS YOJANA — GRAMIN (PMAY-G)
+For rural BPL families to build pucca house. Financial assistance: Rs. 1.20 lakhs (plain areas), Rs. 1.30 lakhs (hilly/difficult areas). Applied through Gram Panchayat. Track at rhreporting.nic.in. If your name is not in list despite eligibility: file complaint with Block Development Officer and file RTI.
+
+FOOD SECURITY
+
+PM GARIB KALYAN ANNA YOJANA (PMGKAY)
+Free food grains (5 kg per person/month) to National Food Security Act beneficiaries. Eligible: ration card holders under Antyodaya Anna Yojana (AAY) and Priority Household (PHH). Collect from Fair Price Shop (ration shop) monthly.
+
+NATIONAL FOOD SECURITY ACT (NFSA) RATION
+- AAY (yellow card): 35 kg per household/month at Rs. 1-3 per kg
+- PHH (pink/other cards): 5 kg per person/month at Rs. 1-3 per kg
+- If denied ration: file complaint with District Supply Officer or State Food Commission
+- Online grievance: most states have food department portals
+
+HOW TO GET RATION CARD
+Apply at ration office or online at state food department portal. Documents needed: Aadhaar, address proof, income certificate, family members' Aadhaar cards. If wrongfully rejected: appeal to District Supply Officer, then State Food Commission. File RTI asking for eligibility criteria and reason for rejection.
+
+EMPLOYMENT AND INCOME
+
+MGNREGA (MAHATMA GANDHI NATIONAL RURAL EMPLOYMENT GUARANTEE ACT)
+- Guarantees 100 days of paid work per year to every rural household
+- Current wage: Rs. 220-300+ per day (varies by state)
+- Work must be provided within 15 days of application, within 5 km of home
+- If work not provided: unemployment allowance must be paid (25% of wage for first 30 days, 50% thereafter)
+- Wages must be paid within 15 days of work completion
+- How to apply: register at Gram Panchayat. Get job card.
+- Check your MGNREGA account at nrega.nic.in
+- If wages delayed or denied: file complaint at nrega.nic.in or with District Programme Coordinator
+
+PM SVANidhi (STREET VENDOR SCHEME)
+Working capital loans for street vendors:
+- First loan: Rs. 10,000 — repay in 1 year
+- Second loan: Rs. 20,000
+- Third loan: Rs. 50,000
+- Interest subsidy provided
+- Apply at nearby bank or PM SVANidhi portal: pmsvanidhi.mohua.gov.in
+- Need certificate from Urban Local Body as street vendor
+
+MUDRA LOAN (PM MUDRA YOJANA)
+Loans for small businesses without collateral:
+- Shishu: up to Rs. 50,000 (new businesses)
+- Kishore: Rs. 50,000 to Rs. 5 lakhs (growing businesses)
+- Tarun: Rs. 5 lakhs to Rs. 10 lakhs (established businesses)
+- Apply at any bank or NBFC
+- No processing fee for Shishu loans
+- For women entrepreneurs: additional benefits
+
+HEALTHCARE SCHEMES
+
+AYUSHMAN BHARAT PM-JAY
+- Health insurance of Rs. 5 lakhs per family per year
+- Covers hospitalization, surgery, medicines, diagnostics
+- No premium to be paid by beneficiary
+- Valid at empanelled government and private hospitals
+- Check eligibility: pmjay.gov.in or call 14555 (toll-free)
+- Get Ayushman card from Common Service Centre or hospital
+- Documents: ration card or other government ID
+
+PM JAN AROGYA YOJANA STATE EXTENSIONS
+Many states have extended PM-JAY with additional benefits:
+- West Bengal: Swasthya Sathi scheme — Rs. 5 lakhs coverage for all families
+- Tamil Nadu: Chief Minister's Comprehensive Health Insurance
+- Karnataka: Arogya Karnataka
+- Check your state health department for state-specific schemes
+
+JANANI SURAKSHA YOJANA
+Cash incentive for institutional delivery:
+- Rural areas: Rs. 1,400 for mother + Rs. 600 for ASHA worker
+- Urban areas: Rs. 1,000 for mother + Rs. 400 for ASHA
+- Applicable for mothers below poverty line
+- Apply at government hospital during delivery
+
+FREE MEDICINES SCHEME
+Many state governments provide free medicines at government hospitals:
+- Rajasthan: Mukhyamantri Nishulk Dava Yojana
+- Tamil Nadu: Free medicines in government hospitals
+- Delhi: Free medicines and diagnostics
+- Ask at your district hospital — you are entitled to prescribed medicines free
+
+WOMEN AND GIRL CHILD SCHEMES
+
+BETI BACHAO BETI PADHAO
+Various benefits for girl child education and welfare. Implemented through health, education and women development departments.
+
+PM MATRU VANDANA YOJANA (PMMVY)
+Financial assistance for first pregnancy: Rs. 5,000 in 3 instalments. Condition: early registration, at least 2 antenatal checkups, institutional delivery. Apply at Anganwadi centre or health facility.
+
+SUKANYA SAMRIDDHI YOJANA
+Savings scheme for girl child (below 10 years): 8.2% interest. Tax-free returns. Minimum deposit Rs. 250/year, maximum Rs. 1.5 lakhs/year. Open at post office or bank. Matures when girl turns 21.
+
+FARMER SCHEMES
+
+PM KISAN SAMMAN NIDHI
+Rs. 6,000 per year (Rs. 2,000 every 4 months) directly to farmer's bank account. For all landholding farmers. Check status at pmkisan.gov.in. If eligible but not receiving: file grievance at pmkisan.gov.in or contact local agriculture office.
+
+PRADHAN MANTRI FASAL BIMA YOJANA
+Crop insurance scheme for farmers. Covers crop loss due to natural calamities, pests, diseases. Premium: 2% for Kharif crops, 1.5% for Rabi crops, 5% for commercial crops. Balance premium paid by government. Apply at bank where agricultural loan is taken or at nearest bank.
+
+HOW TO CHECK GOVERNMENT SCHEME STATUS USING RTI
+If you applied for any scheme and have not received benefit:
+1. Wait for prescribed time period
+2. Enquire at implementing office
+3. File RTI asking: application status, reason for delay/rejection, list of beneficiaries selected, criteria used for selection
+4. Escalate to higher authority if no response
+5. File complaint at CM Helpline or CPGRAMS: pgportal.gov.in
+
+GRIEVANCE PORTALS FOR GOVERNMENT SCHEMES
+- Central: pgportal.gov.in (CPGRAMS)
+- PM Kisan: pmkisan.gov.in
+- MGNREGA: nrega.nic.in
+- Ration/PDS: Respective state food department portal
+- PM Awas: pmaymis.gov.in (urban), rhreporting.nic.in (rural)
+- PM-JAY: pmjay.gov.in or 14555
+- Helpline for all central schemes: 1800-11-0001 (DARPG)

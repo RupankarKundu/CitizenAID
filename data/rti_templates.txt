@@ -1,0 +1,158 @@
+SOURCE: RTI Application Templates & Labour Laws | CATEGORY: RTI Templates, Labour Rights | JURISDICTION: India
+
+=== RTI APPLICATION TEMPLATE (GENERAL) ===
+
+To,
+The Public Information Officer,
+[Name of Government Department/Ministry]
+[Address]
+
+Subject: Application under the Right to Information Act, 2005
+
+Sir/Madam,
+
+I, [Your Full Name], son/daughter of [Father's Name], residing at [Your Full Address], a citizen of India, wish to obtain the following information under Section 6 of the Right to Information Act, 2005:
+
+1. [State your first query clearly and specifically]
+2. [State your second query]
+3. [State your third query]
+
+[Period to which information relates: From _____ to _____]
+
+I am enclosing/paying the application fee of Rs. 10/- by [Postal Order No. _____ / Cash Receipt / Demand Draft].
+
+I declare that I am a citizen of India and the information sought is not covered under the exemptions listed in Section 8 of the RTI Act, 2005.
+
+Please provide the information within 30 days as required under Section 7(1) of the RTI Act, 2005.
+
+Thanking you,
+
+Yours faithfully,
+[Your Full Name]
+[Address]
+[Phone Number]
+[Date]
+[Signature]
+
+---
+
+=== RTI TEMPLATE FOR GOVERNMENT SCHEME STATUS ===
+
+Subject: Seeking information regarding status of [scheme name] application/benefit
+
+Queries:
+1. What is the current status of my application for [scheme name] submitted on [date] with application number [number]?
+2. Kindly provide the reason for delay/rejection of my application, if any.
+3. Kindly provide the list of documents required for [scheme name] and confirm which documents are on record in my file.
+4. Who is the responsible officer for processing [scheme name] applications in [block/district]?
+5. What is the timeline prescribed for processing and disbursing benefits under [scheme name]?
+
+---
+
+=== RTI TEMPLATE FOR ROAD/INFRASTRUCTURE WORK ===
+
+Subject: Seeking information regarding [road/building/infrastructure] construction work
+
+Queries:
+1. What is the total sanctioned amount for [name of road/project]?
+2. What is the name of the contractor to whom the work has been awarded?
+3. What is the prescribed completion date of the work?
+4. How much amount has been paid to the contractor till date?
+5. What is the quality inspection report and by whom was it certified?
+6. Please provide the measurement book/work completion certificate for the said work.
+
+---
+
+=== RTI TEMPLATE FOR GOVERNMENT JOB RECRUITMENT ===
+
+Subject: Seeking information regarding [post name] recruitment process
+
+Queries:
+1. Please provide my marks/scores in each paper/stage of examination for post [name] in [recruitment year].
+2. Please provide the qualifying marks for each stage of selection.
+3. Please provide the total number of vacancies in each category (UR/OBC/SC/ST/EWS).
+4. Please provide the final merit list with roll numbers.
+5. What is the cut-off score for [my category] for the post?
+6. Please provide the answer key used for evaluation.
+
+---
+
+=== RTI TEMPLATE FOR LAND RECORDS ===
+
+Subject: Seeking land record information for [survey number/plot number]
+
+Queries:
+1. Please provide the current ownership records (Khatauni/Patta) for Survey No. [X], Village [Y], Tehsil [Z].
+2. Please provide the mutation records (Dakhil Kharij) for the said land for last 10 years.
+3. Is there any encumbrance, government acquisition notice, or restriction on the said land?
+4. Please provide the current revenue map showing the boundaries of the said land.
+
+---
+
+=== FIRST APPEAL TEMPLATE ===
+
+To,
+The First Appellate Authority,
+[Name of Department]
+
+Subject: First Appeal under Section 19(1) of the RTI Act, 2005
+
+Respected Sir/Madam,
+
+I had filed an RTI application on [date], which was received by the PIO on [date], with receipt number [number]. The PIO [did not respond within 30 days / gave unsatisfactory information by letter dated ____].
+
+Grounds of Appeal:
+1. [State why you are unsatisfied — e.g., information not provided, incomplete information, wrong information, delay]
+2. [Specific information that was requested but not provided]
+
+Relief Sought:
+I request this authority to direct the PIO to provide [specific information] within [timeframe] and to impose penalty under Section 20 of RTI Act for [delay/denial/misleading information].
+
+Enclosures:
+1. Copy of original RTI application
+2. Copy of PIO's response (if any)
+3. Postal acknowledgement
+
+Yours faithfully,
+[Name, Address, Date]
+
+---
+
+=== LABOUR RIGHTS REFERENCE ===
+
+MINIMUM WAGES ACT 1948:
+Every employer must pay minimum wages as notified by Central/State government. Check your state Labour Department website for current minimum wages by industry category. File complaint with Labour Commissioner or Industrial Tribunal for violation.
+
+PAYMENT OF WAGES ACT 1936:
+Wages must be paid by: 7th of next month (if workforce <1000 employees), 10th of next month (if >1000 employees). Unauthorized deductions not permitted. File complaint with Payment of Wages Authority (Labour Commissioner).
+
+PROVIDENT FUND (EPF):
+- Applicable to establishments with 20+ employees
+- Employees earning up to Rs. 15,000 basic+DA must contribute
+- Employee contribution: 12% of basic salary; Employer contribution: 12%
+- File grievance at: epfigms.gov.in or call 1800-118-005
+
+GRATUITY (Payment of Gratuity Act):
+- Entitled after 5 years of continuous service
+- Formula: Last drawn salary × 15/26 × years of service
+- File complaint with Labour Commissioner if not paid
+
+ESI (Employees' State Insurance):
+- For establishments employing 10+ persons
+- Employees earning up to Rs. 21,000 get medical benefits
+- ESI hospitals provide free treatment to insured workers
+
+MATERNITY BENEFIT ACT 2017:
+- 26 weeks paid maternity leave for first 2 children
+- 12 weeks for 3rd child onwards
+- Cannot be dismissed during maternity leave
+- Work from home option after maternity leave
+- Crèche facility in establishments with 50+ employees
+
+SEXUAL HARASSMENT AT WORKPLACE (POSH ACT 2013):
+- Every employer with 10+ employees must have Internal Complaints Committee (ICC)
+- Sexual harassment includes: unwelcome physical/verbal/non-verbal conduct of sexual nature
+- Complaint must be made within 3 months
+- ICC must complete inquiry within 60 days
+- For organizations with <10 employees, complaint to Local Complaints Committee (under District Collector)
+- Helpline: SHe-Box portal at shebox.nic.in

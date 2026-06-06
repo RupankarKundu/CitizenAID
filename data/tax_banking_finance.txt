@@ -1,0 +1,118 @@
+SOURCE: Income Tax Act 1961, Banking Regulation Act, RBI Guidelines, SEBI Regulations | CATEGORY: Tax & Finance | JURISDICTION: India
+
+INCOME TAX — BASICS FOR CITIZENS
+
+WHO MUST FILE ITR
+You must file Income Tax Return (ITR) if:
+- Total income exceeds Rs. 2.5 lakhs per year (Rs. 3 lakhs for senior citizens 60+, Rs. 5 lakhs for 80+)
+- You have foreign assets or income
+- TDS has been deducted and you want refund
+- You have deposited over Rs. 1 crore in bank accounts in a year
+- You have paid electricity bills over Rs. 1 lakh
+- You want to carry forward losses
+- You have income from business or profession above threshold
+
+TAX SLABS (NEW REGIME 2024-25)
+- Up to Rs. 3 lakhs: No tax
+- Rs. 3-6 lakhs: 5%
+- Rs. 6-9 lakhs: 10%
+- Rs. 9-12 lakhs: 15%
+- Rs. 12-15 lakhs: 20%
+- Above Rs. 15 lakhs: 30%
+Note: Income up to Rs. 7 lakhs effectively tax-free due to rebate under Section 87A
+
+HOW TO FILE ITR (ONLINE — FREE)
+Step 1: Go to incometax.gov.in
+Step 2: Register with PAN number
+Step 3: Download Form 26AS and AIS (Annual Information Statement) — shows all TDS deducted
+Step 4: Select correct ITR form (ITR-1 for salaried, ITR-4 for business)
+Step 5: Fill in income details, deductions, tax paid
+Step 6: Verify using Aadhaar OTP or net banking
+Deadline: July 31 for individuals (without audit)
+
+TDS (TAX DEDUCTED AT SOURCE)
+Employer deducts TDS from salary. Bank deducts TDS on FD interest if interest exceeds Rs. 40,000/year (Rs. 50,000 for senior citizens). If your total income is below taxable limit: submit Form 15G (below 60 years) or Form 15H (senior citizens) to bank to prevent TDS deduction.
+
+TAX REFUND — HOW TO GET
+If more tax was deducted than your actual tax liability: file ITR to claim refund. Refund is credited directly to your bank account after processing. Track refund at incometax.gov.in. If refund delayed beyond 1 year: file grievance on e-filing portal.
+
+INCOME TAX NOTICE — WHAT TO DO
+If you receive an income tax notice:
+- Read carefully — understand what is being asked
+- Reply within the deadline mentioned
+- Most notices are routine verification — don't panic
+- Common notices: Section 139(9) — defective return, Section 143(1) — intimation, Section 148 — income escaped assessment
+- If notice is for scrutiny: gather all documents and respond with evidence
+- Free help available at Income Tax Seva Kendra at your local tax office
+- Income Tax helpline: 1800-180-1961 (toll-free)
+
+FORM 26AS — IMPORTANT DOCUMENT
+Form 26AS shows all tax deducted/paid against your PAN. Download from incometax.gov.in or TRACES portal. If your employer or bank has deducted TDS but not deposited with government: the amount won't show in 26AS. File complaint with your Assessing Officer.
+
+BANKING RIGHTS
+
+BANK ACCOUNT — YOUR RIGHTS
+- Every citizen has the right to open a bank account (Jan Dhan Yojana — zero balance account)
+- Bank cannot refuse to open Basic Savings Account
+- Minimum balance rules: must be communicated clearly; penalties cannot exceed Rs. 750/month for metro, less for rural
+- Bank cannot charge for NEFT/RTGS/IMPS transactions done online
+
+UNAUTHORIZED TRANSACTIONS — WHAT TO DO
+If you see unauthorized debit in your account:
+Step 1: Inform your bank WITHIN 3 DAYS by written complaint (email/letter)
+Step 2: Block your card immediately through app or helpline
+Step 3: File cybercrime complaint at cybercrime.gov.in and call 1930
+If informed within 3 days: bank must reverse the amount. Delay in informing: your liability increases.
+
+BANKING GRIEVANCES
+Step 1: Contact branch manager in writing. Keep copy.
+Step 2: Contact bank's Nodal Officer/Grievance Officer
+Step 3: If not resolved in 30 days: file with RBI Ombudsman at cms.rbi.org.in (FREE)
+Step 4: RBI Ombudsman can award up to Rs. 20 lakhs compensation
+RBI helpline: 14448
+
+LOAN AND EMI RIGHTS
+- Banks must give you a clear loan agreement with all terms
+- Prepayment penalty: not allowed on floating rate home loans
+- EMI restructuring: you can request bank during financial hardship
+- If you miss EMIs: bank must follow RBI NPA guidelines before declaring default
+- Loan recovery agents cannot: use abusive language, threaten physically, visit at odd hours, contact third parties without your consent
+- If recovery agents harass: file police complaint + complaint to RBI Ombudsman
+
+CREDIT SCORE AND CIBIL
+- Check your free credit report once a year at cibil.com, experian.in, crif.in, or equifax.in
+- If credit score is wrong: file dispute with CIBIL within 30 days
+- CIBIL must resolve dispute and correct errors
+- File complaint with RBI if CIBIL does not correct genuine errors
+
+INSURANCE — RIGHTS OF POLICYHOLDERS
+- Free Look Period: 15-30 days after policy purchase to return it for full refund
+- Insurance company must settle claim within 30 days of submission of complete documents
+- If claim rejected: must give written reason
+- If rejected without valid reason: approach Insurance Ombudsman at cioins.co.in (FREE)
+- IRDAI Bima Bharosa: complaints at bimabharosa.irdai.gov.in or call 155255
+
+MUTUAL FUNDS AND STOCK MARKET RIGHTS
+- SEBI regulates all investment products
+- Any investment advice: verify SEBI registration of advisor at sebi.gov.in
+- Dispute with broker: approach exchange's Investor Grievance Cell, then SEBI SCORES portal
+- Ponzi scheme or fraud: report to SEBI immediately at scores.sebi.gov.in
+- Check broker registration: sebi.gov.in/sebiweb/home/HomeAction.do
+
+PENSION — EPF AND NPS
+EPF (Employees' Provident Fund):
+- Check EPF balance: epfindia.gov.in or Umang app using UAN number
+- Withdraw EPF online for unemployment (after 2 months), retirement, or medical emergency
+- File grievance for EPF issues: epfigms.gov.in or call 1800-118-005
+- Transfer EPF when changing jobs: use online transfer facility with UAN
+
+NPS (National Pension System):
+- Check NPS balance: cra-nsdl.com
+- Partial withdrawal allowed for specific purposes after 3 years
+- At 60: minimum 40% must be used to buy annuity, rest can be withdrawn
+
+GST CONSUMER RIGHTS
+- Every purchase above Rs. 200 in a shop: you have right to GST invoice
+- Seller cannot refuse GST bill — it is your right and their obligation
+- Check if business is GST registered: gst.gov.in (taxpayer search)
+- Report GST fraud: gst.gov.in or call 1800-103-4786

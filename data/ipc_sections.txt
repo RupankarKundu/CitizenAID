@@ -1,0 +1,92 @@
+SOURCE: Indian Penal Code, 1860 (IPC) & Criminal Procedure Code, 1973 (CrPC) | Bharatiya Nyaya Sanhita 2023 (BNS) | CATEGORY: Criminal Law | JURISDICTION: India
+
+NOTE: Bharatiya Nyaya Sanhita (BNS) 2023 replaced IPC from July 1, 2024. Both references provided below.
+
+FILING AN FIR - YOUR RIGHTS:
+Every citizen has the right to file an FIR (First Information Report) at the nearest police station for any cognizable offence. You CANNOT be refused an FIR for cognizable offences. If police refuses, you can:
+1. Send written complaint to Superintendent of Police
+2. Approach Executive Magistrate/Judicial Magistrate under Section 156(3) CrPC
+3. Call 100 (Police helpline) or 112 (Emergency)
+4. File Zero FIR at any police station regardless of jurisdiction
+
+COGNIZABLE OFFENCES (police can arrest without warrant):
+Includes murder, robbery, rape, kidnapping, dacoity, cheating, fraud, cybercrime, domestic violence, etc.
+
+NON-COGNIZABLE OFFENCES:
+Assault without grievous hurt, cheating below certain threshold — police needs magistrate permission to investigate.
+
+SECTION 415/416 IPC (Cheating) | BNS Section 318:
+Whoever by deceiving any person, fraudulently or dishonestly induces the person to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person deceived to do or omit to do anything — commits cheating. Punishment: up to 7 years + fine.
+
+Common situations: Online fraud, fake schemes, misrepresentation while selling products/property, contractor taking advance and disappearing.
+
+SECTION 420 IPC (Cheating and Dishonestly Inducing Delivery of Property) | BNS Section 318(4):
+Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person — punishment up to 7 years + fine.
+Used for: Fraudulent property sales, ponzi schemes, fake job offers, insurance fraud.
+
+SECTION 406 IPC (Criminal Breach of Trust) | BNS Section 316:
+Whoever, being in any manner entrusted with property, dishonestly misappropriates or converts to his own use that property — punishment up to 3 years or fine or both.
+Used for: Employer not paying salary, misuse of entrusted funds, society treasurer fraud.
+
+SECTION 384/386 IPC (Extortion) | BNS Section 308:
+Whoever intentionally puts any person in fear of injury to that person, in order to commit extortion — punishment up to 3 years + fine.
+Used for: Demands for bribes, threatening to cause harm unless money paid.
+
+SECTION 503/506 IPC (Criminal Intimidation) | BNS Section 351/352:
+Whoever threatens another with injury to his person, reputation or property — punishment up to 2 years + fine. If threat to cause death or grievous hurt — up to 7 years.
+Used for: Threatening phone calls, messages, threats by landlords.
+
+SECTION 499/500 IPC (Defamation) | BNS Section 356:
+Whoever, by words either spoken or intended to be read, makes or publishes any imputation concerning any person intending to harm the reputation of such person — punishment up to 2 years + fine.
+
+SECTION 354 IPC (Assault on Woman) | BNS Section 74:
+Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it likely to outrage her modesty — punishment: minimum 1 year, up to 5 years + fine.
+
+SECTION 354A (Sexual Harassment) | BNS Section 75:
+Physical contact and advances involving unwelcome sexual behaviour; demand for sexual favours; showing pornography against a woman's will; making sexually coloured remarks — punishment up to 3 years + fine.
+
+SECTION 354D (Stalking) | BNS Section 78:
+Any man who follows a woman and contacts/attempts to contact despite clear indication of disinterest, or monitors the use of internet/electronic communication by a woman — punishment: first conviction up to 3 years, subsequent conviction up to 5 years.
+
+DOMESTIC VIOLENCE ACT 2005:
+Protection of Women from Domestic Violence Act protects women from physical, sexual, emotional, verbal, economic abuse within domestic relationships (including live-in). Remedies include: Protection Order (restraining abuser), Residence Order (not to be evicted from shared home), Monetary Relief, Custody Order. File complaint with Protection Officer, police, or directly to Magistrate. Helpline: 181 (Women Helpline).
+
+CYBER CRIMES:
+SECTION 66 IT ACT (Hacking): Dishonest/fraudulent access to computer — up to 3 years + fine.
+SECTION 66C IT ACT (Identity Theft): Fraudulently using electronic signature/password — up to 3 years + Rs 1 lakh fine.
+SECTION 66D IT ACT (Cheating by Personation): Cheating using computer resource — up to 3 years + Rs 1 lakh fine.
+SECTION 67 IT ACT (Obscene Material): Publishing obscene material in electronic form — up to 3 years + Rs 5 lakh fine.
+File cybercrime complaints at: cybercrime.gov.in or nearest Cyber Crime Police Station. Helpline: 1930 (Cyber Financial Fraud Helpline — call IMMEDIATELY if money lost online).
+
+PROPERTY DISPUTES:
+- Wrongful possession: File civil suit for recovery of possession
+- Illegal construction on your land: File complaint with local authority + suit for injunction
+- Landlord-tenant disputes: Rent Control Act of respective state
+- Property fraud: Section 420 IPC + Section 17 Registration Act
+
+ATROCITY CASES (SC/ST):
+SC & ST (Prevention of Atrocities) Act 1989: Specifically protects Scheduled Caste and Scheduled Tribe members from humiliation, discrimination, violence. Cases must be tried by Special Courts. Police cannot refuse to register case. Anticipatory bail not available to accused under this Act.
+
+IMPORTANT HELPLINE NUMBERS:
+- 100: Police
+- 101: Fire
+- 102: Ambulance
+- 112: Emergency (all services)
+- 1091: Women helpline
+- 1098: Child helpline (CHILDLINE)
+- 14567: Senior citizen helpline
+- 1930: Cyber crime financial fraud
+- 181: Women in distress
+- 15100: Legal Aid helpline (NALSA)
+- 1800-11-4000: Consumer helpline
+
+HOW TO FILE AN FIR:
+Step 1: Go to nearest police station. For cybercrime/women's issues, go to specialized cell.
+Step 2: Give your complaint verbally or in writing. Police must reduce it to writing.
+Step 3: The FIR must be read to you and you must sign it.
+Step 4: You are entitled to a free copy of the FIR immediately.
+Step 5: Note the FIR number for follow-up.
+If police refuses: Write to SP, file complaint at SP office, approach Magistrate under Section 156(3) CrPC.
+
+ZERO FIR:
+You can file a Zero FIR at any police station in India regardless of where the crime occurred. The police station must register it and transfer it to the jurisdictional station. Introduced after Nirbhaya case recommendations.

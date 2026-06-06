@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  citizenaid:
+    build: .
+    container_name: citizenaid-api
+    ports:
+      - "8000:8000"
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - PORT=8000
+    volumes:
+      - chroma_data:/app/chroma_db   # persist vector index
+      - ./backend:/app/backend        # live reload in dev
+      - ./data:/app/data
+      - ./frontend:/app/frontend
+    command: >
+      python3 -m uvicorn main:app
+      --host 0.0.0.0 --port 8000
+      --reload --log-level info
+    healthcheck:
+      test: ["CMD", "python3", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+    driver: local

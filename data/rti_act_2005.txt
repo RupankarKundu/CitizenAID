@@ -1,0 +1,62 @@
+SOURCE: Right to Information Act, 2005 | CATEGORY: RTI | JURISDICTION: Central Government (India)
+
+SECTION 2 - DEFINITIONS
+- "Information" means any material in any form, including records, documents, memos, emails, opinions, advices, press releases, circulars, orders, logbooks, contracts, reports, papers, samples, models, data material held in any electronic form.
+- "Public Authority" means any authority or body or institution of self-government established or constituted by or under the Constitution; or by any other law made by Parliament; or by any other law made by State Legislature; or by notification issued or order made by the appropriate Government, and includes any body owned, controlled or substantially financed by funds provided directly or indirectly by the appropriate Government.
+- "Public Information Officer (PIO)" is the officer designated by each public authority to provide information to citizens who request for it.
+
+SECTION 3 - RIGHT TO INFORMATION
+Every citizen of India has the right to information. Citizens can request any government record, including inspection of works, certified copies of documents, taking certified samples of material, and obtaining information in the form of diskettes, floppies, tapes, video cassettes, or in any other electronic mode or through printouts.
+
+SECTION 4 - OBLIGATIONS OF PUBLIC AUTHORITIES
+Every public authority shall maintain all its records duly catalogued and indexed in a manner and form which facilitates the right to information. Public authorities must proactively publish: particulars of its organization, functions, and duties; powers and duties of its officers and employees; procedure followed in the decision making process; norms set for discharge of functions; rules, regulations, instructions, manuals for performing functions; categories of documents held by or under control of the public authority; and details of facilities available to citizens for obtaining information.
+
+SECTION 5 - DESIGNATION OF PUBLIC INFORMATION OFFICERS (PIO)
+Every public authority shall designate one or more officers as the Central Public Information Officer or State Public Information Officer. They shall deal with requests for information and render all necessary assistance. Appellate Authority: Every public authority shall designate a senior officer as First Appellate Authority (FAA) to hear appeals against PIO decisions.
+
+SECTION 6 - REQUEST FOR OBTAINING INFORMATION
+A person who desires to obtain any information shall make a request in writing or through electronic means to the Central/State PIO. The request should specify particulars of the information sought. No reason for seeking information is required to be given. Application fee is Rs. 10/- (for Central Government). Many states have waived fees for Below Poverty Line (BPL) applicants.
+
+SECTION 7 - DISPOSAL OF REQUEST
+The PIO shall provide information within 30 days from the date of receipt of the request. If information concerns the life or liberty of a person, it shall be provided within 48 hours. If the PIO fails to give decision on the request within 30 days, the request is deemed refused. The time taken for payment of additional fees shall be excluded from 30-day calculation.
+
+SECTION 8 - EXEMPTIONS FROM DISCLOSURE
+Information that cannot be disclosed includes: information affecting sovereignty and integrity of India; information expressly forbidden by any court of law; information that would cause breach of privilege of Parliament or State Legislature; commercial confidence, trade secrets or intellectual property; information held in fiduciary capacity; information received in confidence from foreign government; information that would endanger the life or physical safety of any person; cabinet papers including records of deliberations of the Council of Ministers, Secretaries and other officers. However, partial disclosure is allowed — non-exempt portions must still be provided.
+
+SECTION 9 - GROUNDS FOR REJECTION
+PIOs can reject requests if: the information requested is already published; the information is not held by or under the control of the public authority; disclosure is not in interest of any third party; information concerns another country.
+
+SECTION 10 - SEVERABILITY
+Where a request for access to information is rejected on the ground that it is in relation to information which is exempt from disclosure, the PIO shall give an access to that part of the record which does not contain any information which is exempt from disclosure and which can reasonably be severed from any part that contains exempt information.
+
+SECTION 19 - APPEAL
+First Appeal: If an applicant does not receive a decision within 30 days, or is aggrieved by the decision, they may appeal to the First Appellate Authority (FAA) within 30 days from the expiry of the 30-day period or receipt of decision. FAA must decide within 30 days (extendable to 45 days). Second Appeal: If not satisfied with FAA's decision, an appeal can be made to the Central/State Information Commission within 90 days.
+
+SECTION 20 - PENALTIES
+The Central/State Information Commission may impose a penalty of Rs. 250 per day, not exceeding Rs. 25,000, if the PIO: refuses to receive an application; does not furnish information within the specified period; malafidely denies the request for information; knowingly gives incorrect, incomplete or misleading information; destroys information which is the subject of the request; obstructs in any manner the furnishing of information. The PIO may also be recommended for disciplinary action.
+
+HOW TO FILE AN RTI - STEP BY STEP:
+Step 1: Identify the public authority that holds the information you need.
+Step 2: Find the PIO of that public authority (check their official website or notice board).
+Step 3: Write your application clearly stating: your name and address, the specific information sought (be precise), the period to which information relates, and mode of receiving information.
+Step 4: Pay the application fee of Rs. 10 (by postal order, demand draft, or cash). BPL card holders are exempt.
+Step 5: Send by registered post/speed post or submit in person to the PIO and get acknowledgement.
+Step 6: Wait for response within 30 days (48 hours for life/liberty matters).
+Step 7: If no reply or unsatisfactory reply, file First Appeal with FAA within 30 days.
+Step 8: If First Appeal unsatisfactory, file Second Appeal with Information Commission within 90 days.
+
+RTI PORTALS:
+- Central Government RTI: https://rtionline.gov.in
+- Most states have their own RTI portals.
+
+COMMON USES OF RTI:
+- Status of government scheme benefits (PDS ration, PM Awas Yojana, MGNREGA wages)
+- Road/infrastructure work quality and expenditure
+- Government job recruitment process and marks
+- Pending court cases and status
+- Municipal corporation decisions (building permissions, property tax records)
+- Pension and provident fund details
+- Passport/police verification status
+- Government hospital records and treatment details
+- School admission lists and selection criteria
+- Land records, mutation status, survey details
